@@ -54,7 +54,7 @@ import { MatSnackBarRef, MAT_SNACK_BAR_DATA } from '@angular/material/snack-bar'
   </div>  
   <div class="dismiss">
     <button mat-icon-button (click)="snackBarRef.dismiss()">
-      <i class="fa fa-window-close" aria-hidden="true"></i>
+      <mat-icon>close</mat-icon>
     </button>
   </div>
 </div>`

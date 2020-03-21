@@ -10,32 +10,43 @@ import { HttpRequest, HttpResponse, HttpHandler, HttpEvent, HttpInterceptor, HTT
 import { Observable, of, throwError } from 'rxjs';
 import { delay, mergeMap, materialize, dematerialize } from 'rxjs/operators';
 
-let data = {
-  users: [
-    {
-      firstName: "Duane", 
-      lastName: "Haworth", 
-      userName: "dshaworth", 
-      password: "P@55w0rd" 
-    }
-  ],
-  roles: [
-    {
-      name: "admin"
-    },
-    {
-      name: "staff"
-    }
-  ],
-  schools: [
-    {
-
-    }
-  ]
-};
+let tests = [
+  { "id": 1, "name": "Test 1", "chapters": [
+    { "id": 1, "name": "Chapter 1", "questions": []},
+    { "id": 2, "name": "Chapter 2", "questions": []}
+  ]},
+  { "id": 2, "name": "Test 2", "chapters": [
+    { "id": 3, "name": "Chapter 3", "questions": []},
+    { "id": 4, "name": "Chapter 4", "questions": []}
+  ]},
+  { "id": 3, "name": "Test 3", "chapters": [
+    { "id": 5, "name": "Chapter 5", "questions": []},
+    { "id": 6, "name": "Chapter 6", "questions": []},
+    { "id": 7, "name": "Chapter 7", "questions": []},
+    { "id": 8, "name": "Chapter 8", "questions": []},
+    { "id": 9, "name": "Chapter 9", "questions": []},
+  ]},
+  { "id": 4, "name": "Test 4", "chapters": [
+    { "id": 10, "name": "Chapter 10", "questions": []},
+    { "id": 11, "name": "Chapter 11", "questions": []},
+    { "id": 12, "name": "Chapter 12", "questions": []},
+    { "id": 13, "name": "Chapter 13", "questions": []}
+  ]},
+  { "id": 5, "name": "Test 5", "chapters": [
+    { "id": 14, "name": "Chapter 14", "questions": []},
+    { "id": 15, "name": "Chapter 15", "questions": []},
+    { "id": 16, "name": "Chapter 16", "questions": []},    
+    { "id": 17, "name": "Chapter 17", "questions": []}
+  ]},
+  { "id": 6, "name": "Test 6", "chapters": [
+    { "id": 18, "name": "Chapter 18", "questions": []},
+    { "id": 19, "name": "Chapter 19", "questions": []},
+    { "id": 20, "name": "Chapter 20", "questions": []}
+  ]}
+];
 
 // array in local storage for registered users
-let users = localStorage.getItem('users') || [];
+//let users = localStorage.getItem('users') || [];
 
 @Injectable()
 export class FakeBackendInterceptor implements HttpInterceptor {
@@ -51,42 +62,39 @@ export class FakeBackendInterceptor implements HttpInterceptor {
 
         function handleRoute() {
             switch (true) {
-                case url.endsWith('api/auth/login') && method === 'POST':
+              case url.endsWith('api/questions/getTests') && method === 'GET':
+                return getTests();
 
-                  console.log("handleRoute");
-                  console.log(request);
+              case url.endsWith('api/questions/getChapters') && method === 'GET':
+                console.log("handleRoute");
+                console.log(request.params.get("testId"));
+                const testId = request.params.get("testId");
 
-                  let user = {
-                    username: request.body.username,
-                    password: request.body.password
-                  }
+                return getChapters(parseInt(testId));
 
-                  return login(user);
+              case url.endsWith('api/questions/getQuestions') && method === 'GET':
+                return getQuestions();
+
             }
         }
 
         // route functions
-        function login(user){
+        function getTests(){
+          
+          const testNames = tests.map( (test) => {return { id: test.id, name: test.name}; });
+          return ok(testNames);
 
-          // var result = data.users.filter( (obj) => {
-          //   return obj.userName === user.username && obj.password === user.password;
-          // })
-
-          // if(result.length === 1){
-          //   return ok(result[0]);
-          // }          
-
-
-          var result = data.users.find( (obj) => {
-            return obj.userName === user.username && obj.password === user.password;
-          })
-
-          if(result){
-            return ok(result);
-          }          
-          return unauthorized();
         }
 
+        function getChapters(testId: number){
+          const chapters = tests.find( (item) => { return item.id == testId; } )
+          const chapterNames = chapters.chapters.map( (chapter) => { return {id: chapter.id, name: chapter.name}; })
+          return ok(chapterNames);
+        }
+
+        function getQuestions(){
+          return ok(tests);
+        }
 
         ///////////////////
         // helper functions

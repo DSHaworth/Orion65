@@ -1,1 +1,14 @@
 <p>test works!</p>
+
+<mat-form-field>
+  <mat-label>Select a test option</mat-label>
+  <mat-select (selectionChange)="onTestChange($event)">
+    <mat-option *ngFor="let test of tests" [value]="test.id" >{{ test.name }}</mat-option>
+  </mat-select>
+</mat-form-field>
+
+<mat-form-field>
+  <mat-select multiple [(ngModel)]="selectedChapters">
+    <mat-option *ngFor="let chapter of chapters" [value]="chapter.id" >{{ chapter.name }}</mat-option>
+  </mat-select>
+</mat-form-field>

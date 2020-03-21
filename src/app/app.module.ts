@@ -24,9 +24,10 @@ import { interceptorProviders } from './services/interceptors/interceptors';
     AboutComponent,
     HomeComponent,
     TestComponent,
-    NavbarComponent,
+    NavbarComponent,    
+    LandingPageComponent,
     SideNavComponent,
-    LandingPageComponent
+    SnackbarComponent
   ],
   imports: [
     BrowserModule,
