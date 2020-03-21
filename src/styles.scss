@@ -4,5 +4,61 @@ html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
-
 @import "~@fortawesome/fontawesome-free/css/all.css";
+
+/* Miscellaneous Styles*/
+.full-width{
+  width: 100%;
+}
+
+//https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
+.aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aligner-item {
+  max-width: 50%;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+/* Material Snackbar */
+.mat-snack-bar-container .flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mat-snack-bar-container .v-center{
+  align-items: center;
+  align-content: center;
+}
+    
+.mat-snack-bar-container .message-icon{
+  height: 40px; 
+  width: 40px;
+  line-height: 40px;
+}
+
+.mat-snack-bar-container.customize-snackbar {
+  padding: 14px 5px 14px 16px;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.mat-snack-bar-container.snackbar-error {
+  background-color: #ff0000ff;
+  color: #ffffffff;
+}
+
+.mat-snack-bar-container.snackbar-success {
+  background-color: #009900ff;
+  color: #ffffffff;
+}
+
+.mat-snack-bar-container.snackbar-info {
+  background-color: #0000ffff;
+  color: #ffffffff;
+}

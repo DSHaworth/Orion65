@@ -1,29 +1,47 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { FlexLayoutModule } from "@angular/flex-layout";
+import { HttpClientModule } from '@angular/common/http';
+import { MatNativeDateModule } from '@angular/material/core';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './material.module';
 import { AboutComponent } from './views/about/about.component';
 import { HomeComponent } from './views/home/home.component';
 import { TestComponent } from './views/test/test.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
+import { SideNavComponent } from './components/side-nav/side-nav.component';
+import { LandingPageComponent } from './views/landing-page/landing-page.component';
+import { SnackbarComponent } from './services/ui/snackbar.service';
+import { interceptorProviders } from './services/interceptors/interceptors';
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
     HomeComponent,
-    TestComponent
+    TestComponent,
+    NavbarComponent,
+    SideNavComponent,
+    LandingPageComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule,
     BrowserAnimationsModule,
+    FlexLayoutModule,
+    HttpClientModule,
+    MatNativeDateModule,
 
     MaterialModule
   ],
-  providers: [],
+  entryComponents: [SnackbarComponent],
+  providers: [ interceptorProviders ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

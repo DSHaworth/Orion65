@@ -1,0 +1,14 @@
+<mat-sidenav-container  fxFlexFill class='app-drawer-container'>
+  <mat-sidenav #sidenav>
+    <mat-nav-list>
+
+      <span *ngFor="let item of menu">
+        <a mat-list-item [routerLink]="item.route">{{ item.displayName }}</a>
+      </span>
+
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content fxFlexFill>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>
