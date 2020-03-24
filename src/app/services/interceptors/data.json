@@ -1,0 +1,1977 @@
+{
+  "tests": [
+      {
+          "name": "Section 1 Federal Securities Regulations Outline",
+          "data": [
+              {
+                  "question": "Civil liability may arise under the Uniform Securities Act if an agent:\n I. acting on behalf of an issuer fails to guarantee the safety of a new issueof debt securities rated BBB or higher. \nII. uses an artifice or scheme that could reasonably be considered misleading in connection with a securities offering. \nIII. effects a sale of a nonexempt new issue of securities before filing aregistration statement in that state. \nIV. fails to disclose an immaterial fact. ",
+                  "answers": [
+                      "I and II",
+                      "I and III",
+                      "II and IV",
+                      "II and III"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "An agent who deliberately misleads or uses some artifice to deceive customers is in violation of the law. An agent selling a nonexempt security prior to registration in a state is also violating the law. Guaranteeing customers against loss is prohibited, and an agent who fails to guarantee is acting within the law and rules of the Uniform Securities Act. Failure to disclose an immaterial fact is acceptable. Failure to disclose a material fact is fraudulent. ",
+                  "reference": "2.15.1 in the License Exam Manual"
+              },
+              {
+                  "question": " Joan owns and operates a jewelry store, and she has contracted to purchase 5,000 Swiss watches, paying the watch manufacturer in Swiss francs 3 months from the date of contract. To protect (hedge) her currency risk, she purchases call options on Swiss francs. Which of the following statements best describes her transaction in the Swiss franc calls in light of the USA?   ",
+                  "answers": [
+                      "She has not engaged in a securities transaction because options on foreign currencies are not considered to be securities under the USA",
+                      "She has engaged in a securities transaction because options on foreign currencies are considered to be securities under the USA",
+                      "She has engaged in a prohibited transaction because American investors are generally prohibited from trading in foreign currencies under the USA",
+                      "She has not engaged in a securities transaction because she purchased the options to hedge a business risk"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "An agent who deliberately misleads or uses some artifice to deceive customers is in violation of the law. An agent selling a nonexempt security prior to registration in a state is also violating the law. Guaranteeing customers against loss is prohibited, and an agent who fails to guarantee is acting within the law and rules of the Uniform Securities Act. Failure to disclose an immaterial fact is acceptable. Failure to disclose a material fact is fraudulent. ",
+                  "reference": "2.15.1 in the License Exam Manual"
+              },
+              {
+                  "question": "It would be considered a prohibited activity for an agent to engage in any of the following activities EXCEPT",
+                  "answers": [
+                      "sharing in profits of an account as a reward for the agent's recommendations exceeding the S&P 500",
+                      "failing to record exempt transactions on the broker-dealer's books and records",
+                      "executing a transaction in a nonexempt security in a discretionary account",
+                      "trading in the account of a conservative client exclusively in initial public offerings with proper trading authorization from the client."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": "2.11.5 in the License Exam Manual"
+              },
+              {
+                  "question": " All of the following are exempt securities under the Uniform Securities Act EXCEPT:",
+                  "answers": [
+                      "securities issued by a Canadian province",
+                      "securities issued by a bank holding company",
+                      "securities issued by a federal savings and loan association",
+                      " securities issued by the Canadian government. "
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": " 2.8.1 in the License Exam Manual"
+              },
+              {
+                  "question": "Under the Securities Act of 1933, the Securities and Exchange Commission has the authority to: I. issue stop orders. II. approve new issues. III. review standard registration forms.",
+                  "answers": [
+                      "I and III.",
+                      "I, II and III",
+                      "II and III"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "During the cooling-off period, the SEC reviews registration statements and may issue stop orders. The SEC does not approve securities; it only clears them for distribution to the public.",
+                  "reference": "1.4.2 in the License Exam Manual"
+              },
+              {
+                  "question": "Which of the following best describes a 12b-1 fee?",
+                  "answers": [
+                      "A fee imposed against a mutual fund company for violating SEC rules",
+                      "A fee charged by some mutual funds to redeem shares that have been held less than one year.",
+                      "A fee charged to all mutual funds to cover the expense of FINRA regulation.",
+                      "A fee charged by some mutual funds to cover sales and distribution expenses."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "A 12b-1 fee may be charged by mutual funds that do not charge the maximum permissible sales load. SEC Rule 12b-1 allows a mutual fund to serve as distributor of its own shares and charge a percentage of the average net assets for distribution and sales-related expenses.",
+                  "reference": " 1.10.5 in the License Exam Manual "
+              },
+              {
+                  "question": "A major stockholder of the XYZ Corporation makes frequent purchases and sales of this stock on the open market to give the impression that it is actively traded. This unethical practice is best described as:",
+                  "answers": [
+                      "pegging",
+                      "matched orders",
+                      "front running",
+                      "positioning"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "A 12b-1 fee may be charged by mutual funds that do not charge the maximum permissible sales load. SEC Rule 12b-1 allows a mutual fund to serve as distributor of its own shares and charge a percentage of the average net assets for distribution and sales-related expenses. ",
+                  "reference": "1.6.6 in the License Exam Manual "
+              },
+              {
+                  "question": " Under the Securities Act of 1933, securities issued by charitable organizations are exempt if:",
+                  "answers": [
+                      "the net earnings from the organization are paid to less than 10 private stockholders. ",
+                      "the organization is a nonprofit company",
+                      "the organization is funded by government grants",
+                      "no commissions are paid on the distribution of shares"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "Charitable or religious organizations must be nonprofit in order to gain exemption from full registration",
+                  "reference": "1.2 in the License Exam Manual"
+              },
+              {
+                  "question": "Which of the following is(are) TRUE regarding the Securities Exchange Act of 1934? I. The act bars the use of credit to purchase new issues.  II. The act prohibits the simultaneous purchase and sale of a security to create the appearance of trading. III. The act prohibits the spread of false rumors to induce others to trade. ",
+                  "answers": [
+                      "I, II and III",
+                      "II and III",
+                      "I and III",
+                      "I and II"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "The Securities Exchange Act of 1934 specifically bars the use of credit to purchase new issues and also prohibits installment payments when making such purchases. The act also prohibits any form of manipulation of securities prices or any practices that would influence the market price of a security. This includes wash trades, which are simultaneous purchases and sales that create the appearance of trading activity, and the use of rumors to induce others to trade. ",
+                  "reference": " 1.6.5 in the License Exam Manual "
+              },
+              {
+                  "question": "Which of the following is NOT defined as a security under the USA? ",
+                  "answers": [
+                      "A fixed annuity contract",
+                      "Treasury bonds issued by the US goverment",
+                      "Common stock issued by a bank",
+                      "Bonds issued by the Canadian national goverment"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "N/A",
+                  "reference": "N/A"
+              },
+              {
+                  "question": "How often must an investment company file reports with the SEC as required by the Investment Company Act of 1940?",
+                  "answers": [
+                      "Annually",
+                     "Quarterly",
+                      "Monthly",
+                      "Semiannually"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "N/A",
+                  "reference": "N/A"
+              },
+              {
+                  "question": "Mountain High Securities is a broker-dealer registered in Wyoming and Colorado with their principal office located in Colorado.  With reference to the Uniform Securities Act, it would be correct to state that:",
+                  "answers": [
+                      "meeting the recordkeeping requirements of Colorado is sufficient even if those of Wyoming are more stringent.",
+                      "the Administrator of Colorado would have to approve of the broker-dealer method of recordkeeping.",
+                      "the books and records could not be kept in digital form.",
+                      "it is required that any broker-dealer meet the recordkeeping requirements of each state in which they are registered."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "reference": "N/A",
+                  "explanation": "N/A"
+              },
+              {
+                  "question": "Which of the following statements regarding civil liabilities under the Uniform Securities Act are TRUE? I. In a fraudulent securities transaction, the customer is entitled to recover the amount of the transaction with interest at a rate set by the Administrator, less any income earned on the security plus attorney's fees.   II. Causes of action under the USA survive the death of either plaintiff or defendant.  III. No suit may be initiated more than three years after the transaction or two years after the discovery of the violation, whichever occurs first.    IV. Rights and remedies in this act are in lieu of any others that exist under other laws",
+                  "answers": [
+                      "I and II.",
+                      "II, III and IV.",
+                      "I, II and III.",
+                      "III and IV."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "reference": "N/A",
+                  "explanation": "N/A"
+              },
+              {
+                  "question": "A customer has filed a complaint with the Administrator that alleges churning in his account. When investigating the case, mitigating factors would include all of the following EXCEPT: ",
+                  "answers": [
+                      "objectives of the client.",
+                      "character of the account.",
+                      "the length of time the business relationship has existed.",
+                      "account activity."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "reference": "N/A",
+                  "explanation": "N/A"
+              }
+          ]
+      },
+      {
+          "name": "Section 2",
+          "data": [
+              {
+                  "question": "Investing in emerging market stocks primarily exposes your client to which of the following risks? I. Currency. II. Inflation. III. Liquidity. IV. Political.",
+                  "answers": [
+                      "I and IV.",
+                      "I, II, III and IV.",
+                      "II and III.",
+                      "I, III and IV."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Callable preferred stock is advantageous to the issuer because it allows the company to: ",
+                  "answers": [
+                      "replace a high, fixed-rate issue with a lower issue after the call date.",
+                      "issue fixed-rate securities at a yield lower than usual.",
+                      "call in the stock at less than par value and capture the difference as income.",
+                      "take advantage of high interest rates."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "An investment in which of the following would expose the investor to the greatest capital risk? ",
+                  "answers": [
+                      "Common stock.",
+                      "Preferred stock.",
+                      "Mortgage bonds.",
+                      "Debentures."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Under the Uniform Securities Act, all of the following persons may provide investment advice incidental to their normal business without requiring registration as an investment adviser EXCEPT a(n):  ",
+                  "answers": [
+                      "teacher.",
+                      "lawyer.",
+                      "engineer.",
+                      "economist."
+                  ],
+                 "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Which of the following statements about corporate dividends are TRUE? I. Corporations are contractually obligated to pay dividends to their shareholders each year. II. Dividends represent a pro rata distribution of corporate profits to shareholders. III. Dividends may be paid in cash, property, or stock.  ",
+                  "answers": [
+                      "II and III.",
+                      "I and II.",
+                      "I and III.",
+                      "I,II and III."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "An analyst using the dividend growth model would take into account all of the following factors EXCEPT: ",
+                  "answers": [
+                      "the growth of the dividend.",
+                      "the current dividend.",
+                      "the current earnings per share.",
+                      "the investor's required rate of return."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Which of the following would meet the USA's definition of federal covered adviser? An investment adviser who: ",
+                  "answers": [
+                      "does business on an interstate basis.",
+                      "is registered with the SEC.",
+                      "gives advice on federal covered securities.",
+                      "limits the advice given to securities issued or guaranteed by the U.S. government."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Which of the following is a risk faced by investors in foreign stocks that is not found when investing in domestic issues? ",
+                  "answers": [
+                      "Exchange rate risk.",
+                      "Business risk.",
+                      "Credit risk.",
+                      "Market risk."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "When using the Dividend Discount Model, ",
+                  "answers": [
+                      "the discount rate is generally lower than the expected rate of return",
+                      "future expected dividends are discounted to compute the present value of the stock",
+                      "best results are obtained from stocks that pay irregular dividends",
+                      "a higher degree of accuracy in forecasting stock prices is obtained with preferred stock"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "All of the following pay dividens EXCEPT ",
+                  "answers": [
+                      "Warrents",
+                      "Convertible preferred stock",
+                      "Common stock",
+                      "preferred stock"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "A company's dividend on its common stock is: ",
+                  "answers": [
+                      "mandatory if the company is profitable.",
+                      "determined by its board of directors.",
+                      "voted on by shareholders.",
+                      "specified in the company charter."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "A corporation would like to offer their employees an opportunity to participate in the future growth of the company. Among the methods you might suggest are:  ",
+                  "answers": [
+                      "employee stock options.",
+                      "pre-emptive rights.",
+                      "voting trust certificates.",
+                      "subordinated debentures."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "An investment adviser with custody of customer funds and securities must send the customer a statement of account activity no less frequently than:  ",
+                  "answers": [
+                      "Every Transaction",
+                      "Annually",
+                      "monthly",
+                      "Quarterly"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Kapco Investment Advisers currently has $138 million in assets under management and has offices in Colorado and Utah. Kapco's only clients in Utah are 2 insurance companies domiciled in that state. Kapco has no office in New Mexico but does service the accounts of 3 middle-class individuals. Kapco recently has opened an advisory account for a pension plan for a corporation located in Montana. Under the Uniform Securities Act, Kapco would have to register with: ",
+                  "answers": [
+                      "the SEC.",
+                      "the Administrator in each state in which it does business.",
+                      "the Administrator in the states of Colorado and Utah.",
+                      "the Administrator in the states of Montana and New Mexico."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "An investor who chooses to use preferred stock as an income source instead of bonds would potentially incur which of the following risks? Loss of principal II. Price volatility of preferred stock is closely related to interest rates  III. Preferred stock cannot be traded as readily as bonds IV. If the stock is callable, the client’s income can be suddenly lowered ",
+                  "answers": [
+                      "I, II, and IV",
+                      "III and IV",
+                      "I, II, III, and IV",
+                      "I, and II"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "The National Securities Markets Improvement Act of 1996 (NSMIA): ",
+                  "answers": [
+                      "created a national market system.",
+                      "created the concept of fraud, as used in the Uniform Securities Act.",
+                      "defined the term 'federal covered adviser'",
+                      "overcame the restrictions of selling securities in interstate commerce."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "As interest rates fall, prices of straight preferred stock will: ",
+                  "answers": [
+                      "fall.",
+                      "remain unaffected.",
+                      "become volatile.",
+                      "rise."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "All of the following statements regarding incentive stock options (ISOs) are correct EXCEPT: ",
+                  "answers": [
+                      "the favorable tax treatment associated with ISOs is lost if the shares acquired through the ISO exercise are sold before one year from the date of grant or two years from the date of exercise.",
+                      "upon the exercise of an ISO, income for AMT purposes is created.",
+                      "if the holding period is satisfied, the gain upon the sale of ISO shares will be a long- term capital gain.",
+                      "the exercise of ISOs does not create taxable income."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "The Board of Directors of DDC omitted dividends in 2010 on their $100 par 6% noncumulative preferred stock. In 2011, a $2 preferred dividend was paid. For DDC, 2012 has been a good year, and the board wishes to pay a common dividend. How much must be paid per share on the preferred for 2012 in order to pay a common dividend? ",
+                  "answers": [
+                      "$16.00",
+                      "$12.00",
+                      "$8.00",
+                      "$6.00"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Investing in an emerging market mutual fund subjects the investor to all of the following risks EXCEPT: ",
+                  "answers": [
+                      "market volatility.",
+                      "political instability.",
+                      "currency fluctuations.",
+                      "liquidity."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "A corporation with a 7% $100 par cumulative preferred paid $5 to preferred stockholders last year. Before the company can pay common dividends, how much must it pay each preferred share outstanding?",
+                  "answers": [
+                      "9.00",
+                      "15.00",
+                      "3.00",
+                      "7.00"
+                 ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "A common stockholder's rights include all of the following EXCEPT:",
+                  "answers": [
+                      "electing the board of directors.",
+                      "the right to determine the par value of the stock.",
+                      "preemptive rights.",
+                      "the receipt of dividends if declared by the board of directors."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Which of the following statements best describes cumulative preferred stock?",
+                  "answers": [
+                      "Owners have a continuing claim to their dividends, and all arrears must be paid before any dividends can be paid on common stock.",
+                      "Owners are allowed to vote for directors using the cumulative voting procedures.",
+                      "Owners lose any claim to dividends that are not paid in any one year.",
+                      "Owners receive an extra dividend along with common shareholders, in addition to the preferred dividend."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": "NA"
+              },
+              {
+                  "question": "Which of the following statements regarding rights is TRUE?",
+                  "answers": [
+                      "Common stockholders do not have the right to subscribe to a rights offering.",
+                      "Neither common nor preferred stockholders have the right to subscribe to a rights offering.",
+                      "Both common and preferred stockholders have the right to subscribe to a rights offering.",
+                      "Preferred stockholders do not have the right to subscribe to a rights offering."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": " ",
+                  "reference": " "
+              },
+              {
+                  "question": "Bail Bonds, Inc., might issue warrants in connection with a bond issue for which of the following reasons? I. As an inducement to make the bonds more marketable. II. To lower their interest cost on the issue. III. To increase the marketability of their common stock. IV. To increase the number of common shares outstanding. ",
+                  "answers": [
+                      "I and II",
+                      "I only",
+                      "I and IV",
+                      "I, II, III and IV."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": " ",
+                  "reference": " "
+              },
+              {
+                  "question": "As interest rates fall, prices of straight preferred stock will: ",
+                  "answers": [
+                      "Rise",
+                      "remain unaffected.",
+                      "fall.",
+                      "become volatile.."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Wrap fee accounts would tend to be most suitable for investors who follow a:",
+                  "answers": [
+                      "passive approach to investing.",
+                      "tactical approach to investing.",
+                      "buy and hold philosophy.",
+                      "strategic approach to the market."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An investment adviser is preparing an advertisement. Which of the following would be acceptable? I An endorsement on radio or TV from a celebrity who is a client of the firm. II. Identifying his best investment recommendations for the past 6 months. III. Offering to provide his investment recommendations for the past 12 months. IV. Promoting his system of charts and formulas while mentioning their limitations and difficulties.",
+                  "answers": [
+                      "I abd II",
+                      "III and IV",
+                      "I and IV",
+                      "II and III"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              }
+          ]
+      },
+      {
+          "name": "Section 3",
+          "data": [
+              {
+                  "question": "An investor interested in monthly interest income should invest in: ",
+                  "answers": [
+                      "corporate bonds.",
+                      "utility company stock.",
+                      "Treasury bonds.",
+                      "GNMAs."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "The difference between a fixed annuity and a variable annuity is that the variable annuity: I. offers a guaranteed return. II. offers a payment that may vary in amount. III. will always pay out more money than the fixed annuity. IV. attempts to offer protection to the annuitant from inflation. ",
+                  "answers": [
+                      "I and IV",
+                      "II and III",
+                      "I and III",
+                      "II and IV"
+                 ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If you were describing an investment that trades on an exchange with a price set by supply and demand, rather than its underlying value, it would be a (an):",
+                  "answers": [
+                      "Open-ended fund",
+                      "Close-ended fund",
+                      "hedge fund",
+                      "Forward contract"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Of the following bonds, which has the greatest price volatility?",
+                  "answers": [
+                      "Zero-coupon bond with 5 years to maturity.",
+                      "corporate bond fund",
+                      "AA corporate bond with 7 years to maturity.",
+                      "Zero-coupon bond with 15 years to maturity."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A method of valuing an investment, particularly debt securities, by calculating what future cash returns will be worth at the time they are received, based on estimates of future inflation and interest rates is known as ",
+                  "answers": [
+                      "dividend discount model",
+                      "net present value",
+                      "discounted cash flow",
+                      "yield to maturity"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "One of the most important definitions found in the Investment Company Act of 1940 is that of \"investment company\". Included in that definition are all of the following EXCEPT: ",
+                  "answers": [
+                      "REITs.",
+                      "unit investment trusts.",
+                      "management investment companies.",
+                      "face-amount certificate companies."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "What happens to outstanding fixed-income securities when interest rates decline?",
+                  "answers": [
+                      "Prices increase.",
+                      "Coupon rates increase.",
+                      "No change.",
+                      "Yields increase."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "In the secondary market, Treasury bond prices are most influenced by the",
+                  "answers": [
+                      "prime rate.",
+                      "Treasury department.",
+                      "inflation rate.",
+                      "primary dealers."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following best defines a derivative?",
+                  "answers": [
+                      "an investment created from off-book assets",
+                      "a hedge",
+                      "an investment whose value is based upon another asset",
+                      "an option"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Investment company portfolio managers are apt to classify common stocks into groups. One measurement is the product of multiplying the market price per share times the number of shares outstanding. The result is known as: ",
+                  "answers": [
+                      "debt to equity ratio.",
+                      "total value.",
+                      "market capitalization.",
+                     "market value."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If a call option with an exercise price of $50 is purchased for $300, the maximum amount the investor can lose is  ",
+                  "answers": [
+                      "unlimited",
+                      "$5,000",
+                      "$300",
+                      "$4,700"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following would you NOT expect to see issued at a discount? ",
+                  "answers": [
+                      "Treasury Bill",
+                      "Bank jumbo CD",
+                      "Zero-coupon bond",
+                      "Commercial paper"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "When comparing exchange-traded funds (ETFs) to mutual funds, some features available in ETFs that are NOT found in the mutual funds would include the ability to: I. correlate to a specific index. II. sell short. III. be bought and sold on margin.IV. represent an entire portfolio, or basket of securities.",
+                  "answers": [
+                      "III and IV.",
+                      "I and II.",
+                      "II and III.",
+                      "I and IV"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An open-end investment company is also referred to as a(n):",
+                  "answers": [
+                      "unit investment trust.",
+                      "face amount certificate company.",
+                      "mutual fund.",
+                      "exchange traded fund."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "What would likely happen to the market value of existing bonds during an inflationary period coupled with rising interest rates? ",
+                  "answers": [
+                      "The price of the bonds would increase.",
+                      "The price of the bonds would decrease.",
+                      "The nominal yield of the bonds would increase.",
+                      "The price of the bonds would stay the same."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "The main benefit that variable life insurance has over whole life insurance is: ",
+                  "answers": [
+                      "the potential for a higher cash value and death benefit.",
+                      "an adjustable premium",
+                      "a lower sales charge.",
+                      "the availability of policy loans."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "For a given amount of principal, which annuity option would produce the largest monthly income stream? ",
+                  "answers": [
+                      "Life with term certain.",
+                      "Joint and 100% survivor.",
+                      "Joint and 50% survivor.",
+                      "Straight life."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "According to the Investment Company Act of 1940, an open-end investment company must compute its NAV:",
+                  "answers": [
+                      "Monthly",
+                      "No less frequently than once per day",
+                      "annually",
+                      "weekly"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following are NOT considered money market instruments? I. American depositary receipts. II. Commercial paper.III. Corporate bonds.IV. Jumbo (negotiable) certificates of deposit.",
+                  "answers": [
+                      "I and II",
+                      "I and III",
+                      "III and IV",
+                      "II and IV"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following indicates a bond selling at a discount? ",
+                  "answers": [
+                      "5% coupon yielding 5%",
+                      "7% coupon yielding 7.5%",
+                      "10% coupon yielding 9%",
+                      "7% coupon yielding 6.5%"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A farmer entered into a forward contract to sell his produce at $2.25 per bushel. At the expiration date of the contract, the price was $2.00 per bushel. The farmer would receive   ",
+                  "answers": [
+                      "$2.25",
+                      "$2.125 per contract",
+                      " a price negotiated between the buyer and seller",
+                      "$2.00 "
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Bob, age 60, has invested $17,000 in his nonqualified variable annuity over the years. The total value has reached $26,000. He wishes to withdraw $15,000 to send his son to college. What is his tax consequence on the withdrawal?  ",
+                  "answers": [
+                      "$6,500 is nontaxable; $8,500 is taxable",
+                      "$9,000 is taxable; $6,000 is nontaxable",
+                      "The entire amount is taxable",
+                      "The entire amount is nontaxable. "
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "Because this is a nonqualified plan, the $17,000 invested is after-tax dollars. Under the Tax Code, the taxable portion is considered to be withdrawn first in any lump-sum distribution. Therefore, the first dollars withdrawn are all taxable until the amount of withdrawal meets or exceeds the growth in the account. Because Bob is over 59-1⁄2, there is no 10% tax penalty on his withdrawals.   ",
+                  "reference": " 8.1.5 in the License Exam Manual"
+              },
+              {
+                  "question": "Which of the following statements about the redemption of mutual fund shares are TRUE? I. A mutual fund may, but is not required to, redeem its shares if requested by a shareholder. II. A mutual fund will redeem fractional shares as well as full shares. III. Redemptions of mutual fund shares are handled under forward pricing.  ",
+                  "answers": [
+                      "I and II",
+                      "II and III",
+                      "I and III",
+                      "I, II and III"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": "7.1.1.3 in the License Exam Manual "
+             },
+              {
+                  "question": " A review of the prospectus of an open-end investment company reveals that its portfolio consists entirely of CDs, Treasury bills, and repurchase agreements. This is probably a(n):",
+                  "answers": [
+                      "balance fund",
+                      "money market fund",
+                      "index fund",
+                      "exchange-traded fund (ETF)"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An investor interested in obtaining the benefit of professional portfolio management has been tracking a particular investment company for the past several months. In so doing, it becomes obvious that the market price of the shares moves in direct relation to the computed NAV. This investor must be following    :",
+                  "answers": [
+                      "a balanced fund",
+                      "money market fund",
+                      "an open-end fund",
+                      "a closed-end fund "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Money market instruments are",
+                  "answers": [
+                      "intermediate debt",
+                      "long-term equity",
+                      "short-term debt",
+                      "long-term debt "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": " An investor is considering the purchase of $100,000 maturity value of zero-coupon AAA rated corporate bonds scheduled to mature in 20 years. Among the risks that this investor will be assuming are I. Default risk. II. Interest rate risk. III. Pre-payment risk. IV. Reinvestment risk.   ",
+                  "answers": [
+                      "II and III",
+                      "III and IV",
+                      "I and II",
+                      "I and IV "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An unsecured bond is also known as ",
+                  "answers": [
+                      "equipment trust certificate",
+                      "debenture",
+                      "collateral trust bond",
+                      "mortgage bond."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A bond, preferred stock, or debenture exchangeable at the option of the holder (for common stock of the issuing corporation) is a:  ",
+                  "answers": [
+                      "collateral-backed equity security",
+                      "synthetic security",
+                      "nondilutive stock",
+                      "convertible security"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              }
+          ]
+      },
+      {
+          "name": "Section 4",
+          "data": [
+              {
+                  "question": "The common stock of the YXZ Pharmaceutical Corporation, listed on the NYSE, is likely to be subject to: I. business risk.  II. credit risk. III. liquidity risk.  IV. regulatory risk.  ",
+                  "answers": [
+                      "II and III",
+                      "I and IV",
+                      "I and II",
+                      "III and IV"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "The uncertainty resulting from the possibility that the value of an investment will be affected by a change in the law is known as: ",
+                  "answers": [
+                      "credit risk",
+                      "buniness risk",
+                      "legislative risk",
+                      "market risk"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "You recently took a trip to Warsaw, Poland and when you received your credit card statement, you noticed that your vodka purchase for 100 Polish Zlotys resulted in a $30 charge on your statement. Based on this exchange rate, each dollar was worth approximately ",
+                  "answers": [
+                      "3 zlotys",
+                      "$3.33",
+                      "3.33 zlotys",
+                      "$.33"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "credit risk is commonly referred to as",
+                  "answers": [
+                      "interest rate risk",
+                      "unsystematic risk",
+                      "business risk",
+                      "default risk"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An investment of $1,000 made 10 years ago is now worth $4,000. Using the Rule of 72, the approximate compounded annual rate of return is ",
+                  "answers": [
+                      "25%",
+                      "14.4%",
+                      "40%",
+                      "7.2%"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following must be considered in evaluating the suitability of a DPP investment for a customer? I. Risk tolerance.  II. Other holdings. III. Financial situation.  IV. Age.",
+                  "answers": [
+                      "I and II",
+                      "I, II, III and IV.",
+                      "I and IV",
+                      "II and III"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "As current interest rates go up, the market price of existing corporate bonds bearing lower interest rates will: ",
+                  "answers": [
+                      "decrease",
+                      "stay the same",
+                      "change in unpredictable ",
+                      "increase"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A client approaches the IAR handling the advisory account with a request to find a preferred stock that will offer a 6% income return. The IAR suggests a stock paying a $.28 quarterly dividend. That stock will meet the income objective if it has a current market price of  ",
+                  "answers": [
+                      "11.91",
+                      "4.67",
+                      "18.67",
+                      "6.72"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which two are most associated with a Treasury bond? I. Credit risk.  II. Liquidity risk. III. Reinvestment risk.  IV. Interest rate risk. ",
+                  "answers": [
+                      "I and II",
+                      "I and IV",
+                      "II and III",
+                      "III and IV"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following industries’ performance is least likely to track the business cycle? ",
+                  "answers": [
+                      "Financials",
+                      "Pharmaceuticals",
+                      "Consumer durables",
+                      "Automobiles"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If an analyst wished to determine the degree to which leverage was being employed by a subject company, she would most likely examine that issuer's: ",
+                  "answers": [
+                     "sales to debit ratio",
+                      "debt to equity ratio",
+                      "price to book ratio",
+                      "current ratio"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An individual owns assets worth $500,000 and has debts of $300,000. What is the individual's net worth? ",
+                  "answers": [
+                      "800,000.00",
+                      "500,000.00",
+                      "200,000.00",
+                      "300,000.00"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following securities are the most interest-rate sensitive? I. Utility stocks.  II. Growth stocks.  III. Preferred stocks.  IV. Common stocks. ",
+                  "answers": [
+                      "I amd II",
+                      "I and III",
+                      "II and IV",
+                      "III and IV"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "All of the following actions will increase the deficit in the U.S. balance of payments EXCEPT: ",
+                  "answers": [
+                      "purchase by foreigners of U.S. securities.",
+                      "U.S. foreign aid.",
+                      "Americans buying Japanese cars.",
+                      "investments by U.S. firms abroad"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A customer purchased 100 shares of SNP at $38. At the time of purchase, the PE ratio was 12. Approximately what are the earnings per share of SNP? ",
+                  "answers": [
+                      "3.80",
+                      "12.00",
+                      "3.20",
+                      "1.20"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "The prospectus for a fund states that the minimum initial investment is $500,000. This is most likely what type of fund? ",
+                  "answers": [
+                      "Specialized",
+                      "Hedge",
+                      "Balanced.",
+                      "Small-cap growth"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A portfolio manager with a growth style would probably diversify by: ",
+                  "answers": [
+                      "attempting to build a portfolio with a very high correlation.",
+                      "placing a portion of the portfolio into high-yield bonds.",
+                      "devoting a portion of the portfolio to securities with a negative correlation.",
+                      "concentrating in stocks in one or two industries."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Under what circumstances will a dilution of equity occur?  ",
+                  "answers": [
+                      "Stock dividend.",
+                      "Conversion of convertible bonds into common stocks.",
+                      "Issue of mortgage bonds to replace debentures.",
+                      "Stock split."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Among the effects of a country devaluating its currency is that there will probably be: I. a credit to that nation's trade account balance.  II. a debit to that nation's trade account balance.  III. an increase in that nation's exports.  IV. an increase in that nation's imports.",
+                  "answers": [
+                      "II and IV",
+                      "I and III",
+                      "I and IV",
+                      "II and III"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following is NOT a leading economic indicator? ",
+                  "answers": [
+                      "Money supply",
+                      "Orders for durable goods.",
+                      "New housing permits.",
+                      "Duration of unemployment."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": " When reading the prospectus for a fund, you notice that it states that the fund may make portfolio purchases on margin, take short positions, and use arbitrage techniques. This is most likely what type of fund? ",
+                  "answers": [
+                      " Exchange traded.",
+                      " Closed end.",
+                      " Index.",
+                      " Hedge. "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "Margin trading and selling short are techniques commonly found in hedge funds, rather than in open-end or closed-end management funds or ETFs",
+                  "reference": "Reference: 10.1 in the License Exam Manual"
+              },
+              {
+                  "question": " Final approval of the annual operating budget for the United States is given by the ",
+                  "answers": [
+                      "President.",
+                      "Congress.",
+                      "Cabinet.",
+                      " Conference of Governors."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An analyst attempting to determine the extent to which financial leverage is being employed by a company would examine the company’s",
+                  "answers": [
+                      " book value per share",
+                      "working capital ",
+                      " acid-test ratio",
+                      "  debt-to-equity ratio "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " The research department of an investment advisory firm forecasts that the current business cycle should reach its peak within the next 2 months. Under such circumstances, which of the following portfolio adjustments would be most suitable for the firm's customers who actively invest in common stocks?",
+                  "answers": [
+                      "Cyclical stocks",
+                      "Corporate bonds",
+                      "Aggressive growth stocks. ",
+                      "Defensive stocks "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " If the value of the U.S. dollar increases against other currencies, which of the following are TRUE? I. U.S. exports are more competitive in foreign countries. II. U.S. exports are less competitive in foreign countries. III. Foreign imports into the U.S. are more competitive in U.S. markets. IV. Foreign imports into the US are less competitive in U.S. markets.",
+                  "answers": [
+                      " II and IV",
+                      " II and III.",
+                      " I and III",
+                      " I and IV.  "
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "What is the balance sheet equation",
+                  "answers": [
+                      "Assets = liabilities − shareholders' equity",
+                      "Assets = net worth.",
+                      "Assets = shareholders' equity − liabilities.",
+                      "Assets = liabilities + shareholders' equity."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " Over the past five years, an investor's portfolio has shown returns of 6%, 4%, 11%, 10%, and 4%. Which of the following statements is correct? I. The mean return is 7% II. The median return is 6% III. The mode is 4% IV. The range is 7%",
+                  "answers": [
+                      " III and IV ",
+                      " I, II, and III ",
+                      " I and II ",
+                      " I, II, III, and IV "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following is a risk common to all fixed income securities? ",
+                  "answers": [
+                      " Opportunity cost ",
+                      " Liquidity risk ",
+                      " Interest rate risk ",
+                      " Market risk   "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " Which of the following statements about diversification are TRUE? I. Diversification involves investing a portfolio in one, or very few, classes of investments. II. Diversification is a way to reduce unsystematic risk in a portfolio. III. Diversification is a defensive investment strategy",
+                  "answers": [
+                      " I and II ",
+                      " II and III ",
+                      " I and III ",
+                      " I, II and III.    "
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": ""
+              }
+          ]
+      },
+      {
+          "name": "Section 5",
+          "data": [
+              {
+                  "question": "Which of the following portfolio management styles would most likely incur the highest transaction costs? ",
+                  "answers": [
+                      " Tactical asset allocation. ",
+                      " Strategic asset allocation. ",
+                      " Indexing. ",
+                      " Buy and hold. "
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "The Jones family has scheduled an initial visit with a financial planner. Mr. Jones has an annual salary of $70,000 and this is their first attempt at financial planning. Which of the following should be the first step taken by the financial planner?",
+                  "answers": [
+                      "Establish an emergency fund.",
+                      "Set goals and dates for reaching them.",
+                      "Determine a reasonable fee for designing the plan. ",
+                      "Pay off credit card debt. "
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "Asset allocation is an important element of the portfolio management process because I. different asset classes have different risk and return characteristics  II. research indicates that asset allocation is much more important than security selection III.  portfolios that are focused on different asset classes will have very different returns over time  IV. investors may prefer returns in different forms (e.g., income or capital appreciation) ",
+                  "answers": [
+                      "I, II and III only",
+                      "I, II and IV only",
+                      "I, II, III, and IV",
+                      "I only"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "The Capital Asset Pricing Model (CAPM) is most commonly used to determine an investor’s: ",
+                  "answers": [
+                      "expected return.",
+                      "holding period return",
+                      "required return.",
+                      "time weighted return. "
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "An investor purchases 100 shares of a stock at $100 per share on January 1st. On July 1st, the shares are sold for $120 per share. The tax consequences are:",
+                  "answers": [
+                      "$2,000 long-term gain.",
+                      "$2,000 short-term gain.",
+                      "$2,000 short-term loss.",
+                      "$2,000 long-term loss. "
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following statements about C corporations are TRUE? I. A C corporation pays income tax on its earnings at the corporate level.  II. The income of C corporations is subject to double taxation. III. Dividends paid by a C corporation are not subject to income tax at the shareholder level. ",
+                  "answers": [
+                      "II and III.",
+                      "I and II.",
+                      "I, II and III.",
+                      "I and III."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "There are several popular investment styles and, in many cases, portfolio managers use a blended approach to security selection. If a portfolio manager adhered to a pure value style, he would put most of his focus on: ",
+                  "answers": [
+                      "lagging indicators.",
+                      "using technical analysis.",
+                      "projecting future earnings based on past earnings.",
+                      "the company’s financial statements."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "An investor diversifying a corporate bond portfolio does NOT consider:",
+                  "answers": [
+                      "quality.",
+                      "issuer.",
+                      "maturity.",
+                      "domicile of the investor."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "An investor purchases 500 shares of stock on January 10th at $50 per share and sells it on August 4th of the following year for $40 per share. As a result, the investor has realized a: ",
+                  "answers": [
+                      "short-term capital gain.",
+                      "long-term capital loss.",
+                      "long-term capital gain.",
+                      "short-term capital loss."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "In a trust account, the person who makes the account management decisions is the:",
+                  "answers": [
+                      "beneficiary.",
+                      "investment adviser representative.",
+                      "non-trustee custodian.",
+                      "trustee."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "Investors wishing to employ a passive strategy for their bond portfolios would most likely elect which of the following? ",
+                  "answers": [
+                      "Barbell",
+                      "Laddering",
+                      "Buy and hold",
+                      "Bullet"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "As compared to value investors, growth investors tend to: ",
+                  "answers": [
+                      "be very price-conscious when purchasing stocks.",
+                      "look for companies whose sales, earnings, or market share are increasing at an above- average rate.",
+                      "take more of a long-term approach to their investments.",
+                      "look for companies that are undervalued or overlooked by other investors."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "Your daughter is getting married and, to celebrate, you give her fiancé a beautiful watch that you purchased for $5,575. What are the tax consequences of this gift? ",
+                  "answers": [
+                      "The fiancé would have to report this as ordinary income.",
+                      "Anything over the FINRA gift limit of $100 per person per year would be considered taxable.",
+                      "No tax",
+                      "Because they are not yet married, the fiancé is not actually a family member, so a gift tax would be levied."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "A popular funding technique that involves investing the same amount at regular intervals is known as dollar cost averaging. Participating in this funding approach tends to lessen which risk?",
+                  "answers": [
+                      "Credit.",
+                      "Inflation.",
+                      "Timing.",
+                      "Market."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "In the field of portfolio management, there are a number of different management styles. One of those styles involves committing additional capital to the market when others are reducing their exposure, or eliminating positions while others are increasing theirs. This style is generally referred to as:",
+                  "answers": [
+                      "contrarian.",
+                      "active.",
+                      "value.",
+                      "growth."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "The concept of creating a model portfolio, through asset allocation principles, that both increases return and reduces risk is known as: ",
+                  "answers": [
+                      "portfolio optimization.",
+                      "corrective adaptation.",
+                      "risk reduction fundamentals.",
+                      "rebalancing."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "One respect in which an LLC differs from an S corporation is that",
+                  "answers": [
+                      "not only income, but losses, if generated, pass through to investors in an LLC",
+                      "an LLC can be formed with as little as a single investor",
+                      "there is no statutory limit on the number of investors in an LLC",
+                      "there is more favorable tax treatment afforded to members of an LLC"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "An investment adviser is doing some research on a company and notices that the current market price is $21 per share. The most recently reported EPS is $3 and the company is paying a 19 cent quarterly dividend. On the balance sheet, the company is carrying a significant amount of cash. This company would probably be attractive to this adviser if his investment style was:",
+                  "answers": [
+                      "micro-cap.",
+                      "agrowth.",
+                      "contrarian.",
+                      "value."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "In a trust account, the person who makes the account management decisions is the",
+                  "answers": [
+                      "beneficiary",
+                      "non-trustee custodian",
+                      " investment adviser representative. ",
+                      " trustee"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "A limited liability company is ",
+                  "answers": [
+                      "an insurance company",
+                      "traded on major exchanges",
+                      "a company with tax consequences similar to a partnership ",
+                      "a limited partnership "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " A professional tennis player comes to you seeking advice on setting up a trust. She is interested in giving to charity and also wants discretion as to when income is distributed to the beneficiaries, her parents. Which trust do you advise she use? ",
+                  "answers": [
+                      "Charitable lead trust",
+                      " Simple trust",
+                      "Charitable remainder trust",
+                      " Complex trust"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " Assets that might be found on a family balance sheet include: I. car loan. II. gold watch. III. Keogh plan. IV. salary",
+                  "answers": [
+                      "I and IV",
+                      " I and II",
+                      "II and III",
+                      " III and IV "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "If a new client has $200,000 to invest and wants to retire in 15 years, which of the following client information is least necessary for an adviser to recommend a suitable investment program?",
+                  "answers": [
+                      "The age of the client",
+                      "The amount of income he requires for his retirement years.",
+                      "Current income and cash flow requirements",
+                      " Tolerance toward risk"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "IAn investor can choose between four portfolios with the following expected returns and standard deviations. Expected Return Standard Deviation I. 8% 20% II. 6% 21% III. 8% 21% IV. 7% 22% ",
+                  "answers": [
+                      "II",
+                      "III",
+                      "I",
+                      "IV"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "As compared to value investors, growth investors tend to:",
+                  "answers": [
+                      " take more of a long-term approach to their investments.",
+                      " look for companies whose sales, earnings, or market share are increasing at an above- average rate.",
+                      "look for companies that are undervalued or overlooked by other investors.",
+                      "be very price-conscious when purchasing stocks."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " An investment strategy where a higher price is paid for a stock based on expected returns is:",
+                  "answers": [
+                      " dollar cost averaging",
+                      " return on investment",
+                      " futures investing",
+                      "growth investing. "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " Which of the following is a characteristic of the passive investment style? ",
+                  "answers": [
+                      " High portfolio turnover",
+                      "  Income rather than growth objective",
+                      " Rebalancing",
+                      "Tactical management. "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " The management style that is most similar to buy and hold is ",
+                  "answers": [
+                      "strategic management.",
+                      "contrarian",
+                      "tactical management. ",
+                      " active management "
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": " Which of the following market analysts is using the efficient market theory?  ",
+                  "answers": [
+                      " Before he invests in a company, an analyst visits its headquarters to  see whether management is running the company effectively",
+                      " An analyst sells stock when he sees small investors buying",
+                      "An analyst has developed a system for identifying reversals in downward trend-lines ",
+                      "  An analyst picks company names out of a hat "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "Buying stocks with high PE ratios normally reflects which of the following investment styles? ",
+                  "answers": [
+                      "  Growth",
+                      " Value",
+                      "Special situations",
+                      "   Turnaround "
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following is federally tax exempt for a corporation?  ",
+                  "answers": [
+                      "Foreign corporate stock dividends",
+                      "Capital gains",
+                      "Preferred stock dividends",
+                      "Municipal bond interest "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "NA",
+                  "reference": ""
+              },
+              {
+                  "question": "If a husband makes a gift of $100,000 to his wife, a U.S. citizen, how much of the gift is subject to gift taxes?  ",
+                  "answers": [
+                      " $100,000.00 ",
+                      "$90,000.00 ",
+                      " $0.00",
+                      " $50,000.00 "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "NA",
+                  "reference": ""
+              }
+          ]
+      },
+      {
+          "name": "Section 6",
+          "data": [
+              {
+                  "question": "What is the term used to describe a person on the floor of a stock  exchange who stands ready to buy or sell shares of specified stocks",
+                  "answers": [
+                      "Floor broker",
+                      "Market maker",
+                      "Arbitrageur",
+                      "Specialist"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An order to sell securities where immediate execution is more important than price is called ",
+                  "answers": [
+                      " a market order",
+                      " a discretionary order ",
+                      " a limit order",
+                      " an unsolicited order"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "In order to be considered a block trade, an order for common stock must be for at least ",
+                  "answers": [
+                      "1,000 shares",
+                      "10,000 shares",
+                      "100 shares",
+                      "100,000 shares"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following statements about brokers and dealers are TRUE?  I. A broker acts as an agent in a trade; it brings buyers and sellers together. II. A dealer acts as a principal in a trade. III. A securities firm may act as both a broker and as a dealer.",
+                  "answers": [
+                      "II and III",
+                      "I and III",
+                      "I and II",
+                      "I, II and III"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An exchange specialist is a(n)",
+                  "answers": [
+                      " trader who makes a market in OTC stocks and ADRs",
+                      " electronic brokerage concern that executes trades online and through specialized trading order executing services",
+                      "dealer on the New York Stock Exchange who executes orders for  other brokers and who also acts as a market maker with the responsibility of keeping an orderly market in designated stocks",
+                      " floor broker on the New York Stock Exchange who only executes  trades for other brokers in return for commissions"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "An order to immediately buy or sell a security at the best available price is  known as a: ",
+                  "answers": [
+                      "short order",
+                      "limit order",
+                      "market order",
+                      "stop order"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If an investor buys a utility stock with a stable 5% dividend, and after a year the investor's total return in the stock is 10%, the most likely reason for this is the",
+                  "answers": [
+                      "stock price declined",
+                      "the stock appreciated by 5%.",
+                      " investor reinvested the quarterly dividends",
+                      "company doubled its dividend payment"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "When analyzing a specific common stock, the expected return is:",
+                  "answers": [
+                      "the sum of a probability distribution of possible returns",
+                      "the extent to which the net present value exceeds the internal rate of return",
+                      "computed using the Sharpe ratio",
+                      "the projected annual dividend divided by the current market price"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": " An investor is reviewing his portfolio. To compute the real rate of return on an investment, it would be necessary to know I. the gain (or loss) recognized on the asset II. the income received from holding the asset III. the rate of inflation IV. the tax bracket of the investor",
+                  "answers": [
+                      "II and II",
+                      "I, II and III",
+                      "I, II and IV",
+                      "I and IV"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If the return on Treasury bills is 3% and the equity risk premium is 4%, the expected equity returns should be: ",
+                  "answers": [
+                      "1%",
+                      "7%",
+                      "12%",
+                      "4%"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": " A customer who is changing jobs has how many days to roll over a lump sum from a qualified pension plan into an IRA? ",
+                  "answers": [
+                      "60 days",
+                      "90 days",
+                      "15 days",
+                      "30 days"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following phrases best describes a prudent investor? ",
+                  "answers": [
+                      "A person in a fiduciary capacity who invests in a prudent manner.",
+                      "A trustee who invests with reasonable care, skill, and caution",
+                      "An investment adviser representative handling a discretionary account",
+                      "The custodian for a minor under the Uniform Transfers to Minors Act"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If an employer installs a Keogh plan, it must include all full-time employees:",
+                  "answers": [
+                      "with at least three years of service, regardless of age",
+                      "age 21, with at least one year of service.",
+                      "with at least one year of service",
+                      "age 25 or older"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If an individual makes a withdrawal from her IRA at age 52, she pays no penalty tax if she",
+                  "answers": [
+                      "has retired",
+                      "had no earned income that year",
+                      "is disabled",
+                      "used the funds for her nephew's college tuition. "
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": " In a qualified plan, if the employer makes all of the contributions, the employee's cost basis is",
+                  "answers": [
+                      "the value of the contributions",
+                      "one-half of the contributions made",
+                      "the increase in value only",
+                      "zero "
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": " If Janet established a Coverdell Education Savings Account for her grandson, in each successive year, she may contribute",
+                  "answers": [
+                      "$2,000.00",
+                      "$3,000.00",
+                      "$1,000.00",
+                      "$4,000.00"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following statements is TRUE regarding Section 529 Plans? I. Funds withdrawn for qualified education expenses are always free of federal income tax. II. Funds withdrawn for qualified education expenses are always free of state income tax. III. The maximum contribution limits are determined on a federal level. IV. The maximum contribution limits are determined on a state level. ",
+                  "answers": [
+                      " I and III.",
+                      " II and III",
+                      " I and IV",
+                      " II and IV"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Company-sponsored 401(k) retirement programs have which of the following? I. Voluntary employee contributions. II. Voluntary employer contributions. III. Mandatory employee contributions. IV. Mandatory employer contributions. ",
+                  "answers": [
+                      "II and III",
+                      "I and II",
+                      "III and IV",
+                      "I and IV"
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following statements are true about both an individual Roth  IRA and a Roth 401(k) plan? I. contributions are made with after-tax dollars. II. one must have AGI below a certain level in order to maintain either Roth. III. if all the conditions are met, withdrawals are tax-free. IV. there are no RMDs at age 70 1⁄2",
+                  "answers": [
+                      "II and IV",
+                      "III and IV",
+                      "I and III.",
+                      "I and II"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If a retiree is paid an annual amount equal to 30% of the average of his last three years' salary, which of the following retirement plans offers this type of payment? ",
+                  "answers": [
+                      "Profit-sharing",
+                      "Deferred compensation",
+                      "Defined benefit pension",
+                      "Money purchase pension"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A young customer who is a novice investor wishes to begin an investment program. He is eligible for his employer's 401(k) plan, to which the employer makes matching contributions, but he does not participate in the plan. Your advice to the customer should be to begin: ",
+                  "answers": [
+                      "by making regular contributions to a growth mutual fund.",
+                      "by making regular contributions to an income mutual fund.",
+                      "by taking positions in individual stocks.",
+                      "making payroll deduction contributions to the employer's 401(k) plan at least to the employer's matching level."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "On retirement, if your customer who is a corporate executive will receive retirement income equaling a percentage of the average of his last 5 years of compensation, this is which type of plan?  ",
+                  "answers": [
+                      "Keogh",
+                      "TSA",
+                      "Defined benefit",
+                      "Defined contribution"
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "If you knew a given stock had a 40% chance of earning a 10% return, a 40% chance of earning 20%, and a 20% chance of earning -10%, the stock would have a(n): ",
+                  "answers": [
+                      "annualized return of 10%.",
+                      "total return of 10%",
+                      "expected rate of return of 10%.",
+                      "real rate of return of 10%."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "In order to compute the real rate of return for a security, it would be necessary to know all of the following EXCEPT ",
+                  "answers": [
+                      "The CPI",
+                      "the annual dividend.",
+                      "the purchase price",
+                      "the beta of the security."
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+             },
+              {
+                  "question": "An individual works for an accounting firm that does not have a retirement fund. She is paid $18,000 per year. During her spare time, she is a commercial artist and earned $16,000 doing this work last year. What is the basis for her contribution under a Keogh plan (HR-10)?",
+                  "answers": [
+                      "$16,000.00",
+                      "$18,000.00",
+                      "$34,000.00",
+                      "$0.00"
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "A lump-sum distribution from a 401(k) before retirement may be I. eligible to be rolled over into a traditional IRA. II. subject to ordinary income tax and penalty. III. eligible to be transferred to a Roth IRA. IV. tax free if the recipient is disabled.",
+                  "answers": [
+                      "I and III",
+                      "II and III",
+                      "II and IV",
+                      "I, II and III"
+                  ],
+                  "correctAnswerIndex": 3,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "The execution of a market order to sell occurs at the:",
+                  "answers": [
+                      "highest offer.",
+                      "highest bid.",
+                      "lowest bid.",
+                      "lowest offer."
+                  ],
+                  "correctAnswerIndex": 1,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Thomas, age 49, owns his own business and pays himself a salary of $80,000 per year. He employs his wife Grace, age 51 as receptionist and pays her $45,000 per year. What is the maximum deductible contribution that they could have made to their 2013 traditional IRA programs? ",
+                  "answers": [
+                      "They can contribute a total of $5,500 only because they both work at the same business.",
+                      "They cannot make deductible contributions because their joint incomes are too high",
+                      "They can contribute $5,500 to his IRA and $6,500 to hers.",
+                      "They can contribute $5,500 to each of their individual IRAs."
+                  ],
+                  "correctAnswerIndex": 2,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Stock prices in the over-the-counter market are determined by:",
+                  "answers": [
+                      "negotiation.",
+                      "the five percent markup policy.",
+                      "an auction.",
+                      "a competitive bid."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              },
+              {
+                  "question": "Which of the following takes place on the New York Stock Exchange?",
+                  "answers": [
+                      "Buying and selling stocks on the secondary market.",
+                      "Buying and selling stocks on the over-the-counter (OTC) market.",
+                      "Buying and selling of Nasdaq stocks.",
+                      "Buying and selling stocks on the primary market."
+                  ],
+                  "correctAnswerIndex": 0,
+                  "explanation": "",
+                  "reference": ""
+              }
+          ]
+      }
+  ]
+}
