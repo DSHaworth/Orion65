@@ -65,7 +65,12 @@ export class FakeBackendInterceptor implements HttpInterceptor {
         function getQuestions(testId: number){
 
           const unit = tests.find( (item) => { return item.id == testId; } )
-          return ok(unit);
+          const q = unit.questions.map( (q) => { return { question: q.question, answers: q.answers.map( ( ans, index ) => { return { answer: ans, isCorrect: (q.correctAnswerIndex === index) }; }) }; })
+          const final = { id: unit.id, name: unit.name, questions: q };
+          
+          //const unit = tests.find( (item) => { return item.id == testId; } )          
+          //return ok(unit);
+          return ok(final);
         }
 
         ///////////////////
