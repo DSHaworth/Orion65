@@ -7,8 +7,32 @@
   </mat-select>
 </mat-form-field>
 
-<mat-form-field>
-  <mat-select multiple [(ngModel)]="selectedChapters">
-    <mat-option *ngFor="let chapter of chapters" [value]="chapter.id" >{{ chapter.name }}</mat-option>
-  </mat-select>
-</mat-form-field>
+
+<div *ngIf="selectedTest && selectedTest.questions.length > 0; then dataBlock else noDataBlock"></div>
+<ng-template #dataBlock>
+
+  <h1>
+    {{ selectedTest.name }}
+  </h1>
+
+  <mat-card *ngFor="let q of selectedTest.questions" style="margin: 10px;">
+    <mat-card-title style="line-height: 1.4em; margin-bottom: 1em;">{{ q.question }}</mat-card-title>
+    
+    <mat-card-content >      
+      
+      <mat-selection-list [multiple]="false">
+        <mat-list-option  *ngFor="let answer of q.answers">
+          {{ answer }}
+        </mat-list-option>
+      </mat-selection-list>            
+      
+    </mat-card-content>
+    <mat-card-actions>Actions</mat-card-actions>
+    <mat-card-footer>Footer</mat-card-footer>
+  </mat-card>
+  
+
+  <pre><code>{{selectedTest.questions | json}}</code></pre>
+
+</ng-template>
+<ng-template #noDataBlock></ng-template> 

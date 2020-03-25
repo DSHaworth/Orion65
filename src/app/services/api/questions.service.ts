@@ -21,20 +21,13 @@ export class QuestionsService {
             .get<any>( this.apiUrl + `getTests` );
   }
 
-  public getChapters(testId: number):  Observable<any>{
+  public getQuestions(testId: number):  Observable<any>{
 
     let params = new HttpParams();
     params = params.append('testId', testId.toString());
 
     return this
             .httpClient
-            .get<any>( this.apiUrl + `getChapters`, {params: params} );
-  }
-
-  public getQuestions():  Observable<any>{
-
-    return this
-            .httpClient
-            .get<any>( this.apiUrl + `getQuestions` );
+            .get<any>( this.apiUrl + `getQuestions`, {params: params} );
   }
 }

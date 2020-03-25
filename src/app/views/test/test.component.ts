@@ -12,10 +12,8 @@ export class TestComponent implements OnInit {
 
   private isBusy: boolean = false;
   public tests: any[];
-  public chapters: any[];
-  public selectedTest: string;
-  public selectedChapters: string[];
-
+  public selectedTest: any;
+  
   constructor(
     private questionsService: QuestionsService,
     private snackbarService: SnackbarService,
@@ -23,18 +21,20 @@ export class TestComponent implements OnInit {
   ) { }
 
   onTestChange(event){
-    //this.loggingService.log(event);
-    this.getChapters(event.value);
+    this.loggingService.log(event);
+    this.getQuestions(event.value);
   }
 
-  getChapters(testId: number){
+  getQuestions(testId: number){
     this.isBusy = true;
-    this.questionsService.getChapters(testId)
+
+    this.loggingService.log(testId);
+
+    this.questionsService.getQuestions(testId)
       .subscribe( 
         result => {          
-          //this.snackbarService.showSuccess("It worked");
           this.loggingService.log(result);
-          this.chapters = result;          
+          this.selectedTest = result;          
         },
         error => {
           this.snackbarService.showError(error);
@@ -51,8 +51,7 @@ export class TestComponent implements OnInit {
     this.questionsService.getTests()
       .subscribe( 
         result => {          
-          //this.snackbarService.showSuccess("It worked");
-          //this.loggingService.log(result);
+          this.loggingService.log(result);
           this.tests = result;          
         },
         error => {
@@ -61,7 +60,6 @@ export class TestComponent implements OnInit {
         }
       ).add(() => {
         this.isBusy = false;
-        //this.loggingService.log("DONE");
       });    
   }
 
