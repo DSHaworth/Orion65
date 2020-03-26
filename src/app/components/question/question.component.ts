@@ -8,6 +8,7 @@ import { Component, OnInit, Input } from '@angular/core';
 export class QuestionComponent implements OnInit {
 
   @Input() q: any;
+  selectedOption: string;
 
   constructor() { }
 

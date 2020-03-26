@@ -5,16 +5,22 @@
 
 <mat-card-content >      
   
-  <mat-selection-list [multiple]="false">
+  <mat-selection-list 
+    [multiple]="false" 
+    [(ngModel)]="selectedOption">
+
     <mat-list-option             
       *ngFor="let answer of q.answers; let i = index"
-      [ngClass]="{'correctAnswer' : answer.isCorrect}">
+      [ngClass]="{'correctAnswer' : answer.isCorrect}"
+      [value]="i">
       {{i + 1}}. {{ answer.answer }}
     </mat-list-option>
+
   </mat-selection-list>            
   
 </mat-card-content>
 <mat-card-actions style="display: flex; flex-direction: row; justify-content: flex-end;">        
+  {{ selectedOption  }}
   <button mat-raised-button color="primary">
     Submit Answer
   </button>
