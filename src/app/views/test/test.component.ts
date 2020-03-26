@@ -14,6 +14,7 @@ export class TestComponent implements OnInit {
   public tests: any[];
   public selectedTest: any;
   public shuffledQuestions: any;
+  public grade: string = "";
   
   correctAnswers: number = 0;
   incorrectAnswers: number = 0;
@@ -41,7 +42,7 @@ export class TestComponent implements OnInit {
     }
 
     if(this.correctAnswers + this.incorrectAnswers === this.shuffledQuestions.length){
-      alert( `Grade ${(this.correctAnswers / this.shuffledQuestions.length) * 100}%`)
+      this.grade = `${(this.correctAnswers / this.shuffledQuestions.length) * 100}%`;
     }
 
   }
@@ -50,6 +51,7 @@ export class TestComponent implements OnInit {
 
     this.correctAnswers = 0;
     this.incorrectAnswers = 0;  
+    this.grade = "";
 
     // Shuffle Questions
     let questions = this.shuffle(this.selectedTest.questions);

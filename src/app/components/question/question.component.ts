@@ -18,24 +18,31 @@ export class QuestionComponent implements OnInit {
   constructor() { }
 
   onSubmitClick(){
-    console.log(this.question);
-    console.log(this.selectedOption);
+    //console.log(this.question);
+    //console.log(this.selectedOption);
 
     this.answerSubmited = true;
     
     const selectedOption = parseInt(this.selectedOption);
-    let correctIndex: number;    
     let responses = document.getElementsByClassName(this.classname);
+    let correctIndex:number = this.question.answers.findIndex( (item)=>{ return item.isCorrect});
+
+    this.selectedOption = null;
+
+    // console.log("correctIndex");
+    // console.log(correctIndex);
+
+    // console.log("question");
+    // console.log(this.question);
 
     for(var idx = 0, max = responses.length ; idx < max ; idx++){
       responses[idx].classList.remove("correctAnswer");
       responses[idx].classList.remove("incorrectAnswer");
 
-      if(this.question.answers[idx].isCorrect){
-        correctIndex = idx;
-      }
+      console.log("this.question.answers[idx]");
+      console.log(this.question.answers[idx])
     }    
-
+    
     if(this.question.answers[selectedOption].isCorrect){
       responses[selectedOption].classList.add("correctAnswer");
       this.responseEvent.emit(true);

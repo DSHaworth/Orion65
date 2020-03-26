@@ -1,17 +1,22 @@
-<mat-form-field>
-  <mat-label>Select a test option</mat-label>
-  <mat-select (selectionChange)="onTestChange($event)">
-    <mat-option *ngFor="let test of tests" [value]="test.id" >{{ test.name }}</mat-option>
-  </mat-select>
-</mat-form-field>
-<button mat-mini-fab 
-  color="primary" 
-  style="margin-left: 1em;" 
-  [disabled]="!(selectedTest && selectedTest.questions.length)"
-  (click)="onRefreshClicked()">
-  <i class="fas fa-redo"></i>
-</button>
-
+<div style="display: flex; flex-direction: row;">
+  <mat-form-field>
+    <mat-label>Select a test option</mat-label>
+    <mat-select (selectionChange)="onTestChange($event)">
+      <mat-option *ngFor="let test of tests" [value]="test.id" >{{ test.name }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+  <button mat-mini-fab 
+    color="primary" 
+    style="margin-left: 1em;" 
+    [disabled]="!(selectedTest && selectedTest.questions.length)"
+    (click)="onRefreshClicked()">
+    <i class="fas fa-redo"></i>
+  </button>
+  <div class="spacer"></div>
+  <h2>
+    {{ grade }}
+  </h2>
+</div>
 
 <div *ngIf="selectedTest && selectedTest.questions.length > 0; then dataBlock else noDataBlock"></div>
 <ng-template #dataBlock>
