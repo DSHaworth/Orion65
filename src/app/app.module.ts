@@ -17,6 +17,7 @@ import { SideNavComponent } from './components/side-nav/side-nav.component';
 import { LandingPageComponent } from './views/landing-page/landing-page.component';
 import { SnackbarComponent } from './services/ui/snackbar.service';
 import { interceptorProviders } from './services/interceptors/interceptors';
+import { SafePipe } from './pipes/safe.pipe';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { interceptorProviders } from './services/interceptors/interceptors';
     NavbarComponent,    
     LandingPageComponent,
     SideNavComponent,
-    SnackbarComponent
+    SnackbarComponent,
+    SafePipe,
   ],
   imports: [
     BrowserModule,

@@ -6,18 +6,27 @@
     <mat-option *ngFor="let test of tests" [value]="test.id" >{{ test.name }}</mat-option>
   </mat-select>
 </mat-form-field>
+<button mat-mini-fab 
+  color="primary" 
+  style="margin-left: 1em;" 
+  [disabled]="!(selectedTest && selectedTest.questions.length)"
+  (click)="onRefreshClicked()">
+  <i class="fas fa-redo"></i>
+</button>
 
 
 <div *ngIf="selectedTest && selectedTest.questions.length > 0; then dataBlock else noDataBlock"></div>
 <ng-template #dataBlock>
-
   
     <h1>
       {{ selectedTest.name }}
     </h1>
 
-    <mat-card *ngFor="let q of selectedTest.questions" style="margin: 4em;">
-      <mat-card-title style="line-height: 1.4em; margin-bottom: 1em;">{{ q.question }}</mat-card-title>
+    <mat-card *ngFor="let q of selectedTest.questions; let i = index" style="margin: 4em;">
+      <mat-card-title style="line-height: 1.4em; margin-bottom: 1em;">
+        <div [innerHtml]="q.question | safe: 'html'"></div>
+
+      </mat-card-title>
       
       <mat-card-content >      
         
@@ -30,7 +39,11 @@
         </mat-selection-list>            
         
       </mat-card-content>
-      <mat-card-actions>Actions</mat-card-actions>
+      <mat-card-actions style="display: flex; flex-direction: row; justify-content: flex-end;">        
+        <button mat-raised-button color="primary">
+          Submit
+        </button>
+      </mat-card-actions>
       <mat-card-footer style="padding: 2em;">
         <div>{{q.explanation}}</div>
         <div>{{q.reference}}</div>

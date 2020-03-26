@@ -4,7 +4,7 @@
         "id": 1,
         "questions": [
             {
-                "question": "Civil liability may arise under the Uniform Securities Act if an agent:\n I. acting on behalf of an issuer fails to guarantee the safety of a new issueof debt securities rated BBB or higher. \nII. uses an artifice or scheme that could reasonably be considered misleading in connection with a securities offering. \nIII. effects a sale of a nonexempt new issue of securities before filing aregistration statement in that state. \nIV. fails to disclose an immaterial fact. ",
+                "question": "Civil liability may arise under the Uniform Securities Act if an agent:<br><br>I. acting on behalf of an issuer fails to guarantee the safety of a new issueof debt securities rated BBB or higher. <br>II. uses an artifice or scheme that could reasonably be considered misleading in connection with a securities offering. <br>III. effects a sale of a nonexempt new issue of securities before filing aregistration statement in that state. \nIV. fails to disclose an immaterial fact. ",
                 "answers": [
                     "I and II",
                     "I and III",
@@ -52,7 +52,7 @@
                 "reference": " 2.8.1 in the License Exam Manual"
             },
             {
-                "question": "Under the Securities Act of 1933, the Securities and Exchange Commission has the authority to: I. issue stop orders. II. approve new issues. III. review standard registration forms.",
+                "question": "Under the Securities Act of 1933, the Securities and Exchange Commission has the authority to: <br><br>I. issue stop orders. <br>II. approve new issues. <br>III. review standard registration forms.",
                 "answers": [
                     "I and III.",
                     "I, II and III",
@@ -99,7 +99,7 @@
                 "reference": "1.2 in the License Exam Manual"
             },
             {
-                "question": "Which of the following is(are) TRUE regarding the Securities Exchange Act of 1934? I. The act bars the use of credit to purchase new issues.  II. The act prohibits the simultaneous purchase and sale of a security to create the appearance of trading. III. The act prohibits the spread of false rumors to induce others to trade. ",
+                "question": "Which of the following is(are) TRUE regarding the Securities Exchange Act of 1934? <br><br>I. The act bars the use of credit to purchase new issues.  <br>II. The act prohibits the simultaneous purchase and sale of a security to create the appearance of trading. <br>III. The act prohibits the spread of false rumors to induce others to trade. ",
                 "answers": [
                     "I, II and III",
                     "II and III",
@@ -147,7 +147,7 @@
                 "explanation": "N/A"
             },
             {
-                "question": "Which of the following statements regarding civil liabilities under the Uniform Securities Act are TRUE? I. In a fraudulent securities transaction, the customer is entitled to recover the amount of the transaction with interest at a rate set by the Administrator, less any income earned on the security plus attorney's fees.   II. Causes of action under the USA survive the death of either plaintiff or defendant.  III. No suit may be initiated more than three years after the transaction or two years after the discovery of the violation, whichever occurs first.    IV. Rights and remedies in this act are in lieu of any others that exist under other laws",
+                "question": "Which of the following statements regarding civil liabilities under the Uniform Securities Act are TRUE? <br><br>I. In a fraudulent securities transaction, the customer is entitled to recover the amount of the transaction with interest at a rate set by the Administrator, less any income earned on the security plus attorney's fees.<br>II. Causes of action under the USA survive the death of either plaintiff or defendant.<br>III. No suit may be initiated more than three years after the transaction or two years after the discovery of the violation, whichever occurs first.<br>IV. Rights and remedies in this act are in lieu of any others that exist under other laws",
                 "answers": [
                     "I and II.",
                     "II, III and IV.",
@@ -177,7 +177,7 @@
         "id": 2,
         "questions": [
             {
-                "question": "Investing in emerging market stocks primarily exposes your client to which of the following risks? I. Currency. II. Inflation. III. Liquidity. IV. Political.",
+                "question": "Investing in emerging market stocks primarily exposes your client to which of the following risks? <br><br>I. Currency. <br>II. Inflation. <br>III. Liquidity. <br>IV. Political.",
                 "answers": [
                     "I and IV.",
                     "I, II, III and IV.",
@@ -225,7 +225,7 @@
                 "reference": "NA"
             },
             {
-                "question": "Which of the following statements about corporate dividends are TRUE? I. Corporations are contractually obligated to pay dividends to their shareholders each year. II. Dividends represent a pro rata distribution of corporate profits to shareholders. III. Dividends may be paid in cash, property, or stock.  ",
+                "question": "Which of the following statements about corporate dividends are TRUE? <br><br>I. Corporations are contractually obligated to pay dividends to their shareholders each year. <br>II. Dividends represent a pro rata distribution of corporate profits to shareholders. <br>III. Dividends may be paid in cash, property, or stock.  ",
                 "answers": [
                     "II and III.",
                     "I and II.",
@@ -345,7 +345,7 @@
                 "reference": "NA"
             },
             {
-                "question": "An investor who chooses to use preferred stock as an income source instead of bonds would potentially incur which of the following risks? Loss of principal II. Price volatility of preferred stock is closely related to interest rates  III. Preferred stock cannot be traded as readily as bonds IV. If the stock is callable, the client’s income can be suddenly lowered ",
+                "question": "An investor who chooses to use preferred stock as an income source instead of bonds would potentially incur which of the following risks? <br><br>I. Loss of principal <br>II. Price volatility of preferred stock is closely related to interest rates  <br>III. Preferred stock cannot be traded as readily as bonds <br>IV. If the stock is callable, the client’s income can be suddenly lowered ",
                 "answers": [
                     "I, II, and IV",
                     "III and IV",
@@ -465,7 +465,7 @@
                 "reference": " "
             },
             {
-                "question": "Bail Bonds, Inc., might issue warrants in connection with a bond issue for which of the following reasons? I. As an inducement to make the bonds more marketable. II. To lower their interest cost on the issue. III. To increase the marketability of their common stock. IV. To increase the number of common shares outstanding. ",
+                "question": "Bail Bonds, Inc., might issue warrants in connection with a bond issue for which of the following reasons? <br><br>I. As an inducement to make the bonds more marketable. <br>II. To lower their interest cost on the issue. <br>III. To increase the marketability of their common stock. <br>IV. To increase the number of common shares outstanding. ",
                 "answers": [
                     "I and II",
                     "I only",
@@ -501,7 +501,7 @@
                 "reference": ""
             },
             {
-                "question": "An investment adviser is preparing an advertisement. Which of the following would be acceptable? I An endorsement on radio or TV from a celebrity who is a client of the firm. II. Identifying his best investment recommendations for the past 6 months. III. Offering to provide his investment recommendations for the past 12 months. IV. Promoting his system of charts and formulas while mentioning their limitations and difficulties.",
+                "question": "An investment adviser is preparing an advertisement. Which of the following would be acceptable? <br><br>I. An endorsement on radio or TV from a celebrity who is a client of the firm. <br>II. Identifying his best investment recommendations for the past 6 months. <br>III. Offering to provide his investment recommendations for the past 12 months. <br>IV. Promoting his system of charts and formulas while mentioning their limitations and difficulties.",
                 "answers": [
                     "I abd II",
                     "III and IV",
@@ -531,7 +531,7 @@
                 "reference": ""
             },
             {
-                "question": "The difference between a fixed annuity and a variable annuity is that the variable annuity: I. offers a guaranteed return. II. offers a payment that may vary in amount. III. will always pay out more money than the fixed annuity. IV. attempts to offer protection to the annuitant from inflation. ",
+                "question": "The difference between a fixed annuity and a variable annuity is that the variable annuity: <br><br>I. offers a guaranteed return. <br>II. offers a payment that may vary in amount. <br>III. will always pay out more money than the fixed annuity. <br>IV. attempts to offer protection to the annuitant from inflation. ",
                 "answers": [
                     "I and IV",
                     "II and III",
@@ -663,7 +663,7 @@
                 "reference": ""
             },
             {
-                "question": "When comparing exchange-traded funds (ETFs) to mutual funds, some features available in ETFs that are NOT found in the mutual funds would include the ability to: I. correlate to a specific index. II. sell short. III. be bought and sold on margin.IV. represent an entire portfolio, or basket of securities.",
+                "question": "When comparing exchange-traded funds (ETFs) to mutual funds, some features available in ETFs that are NOT found in the mutual funds would include the ability to: <br><br>I. correlate to a specific index. <br>II. sell short. <br>III. be bought and sold on margin. <br>IV. represent an entire portfolio, or basket of securities.",
                 "answers": [
                     "III and IV.",
                     "I and II.",
@@ -735,7 +735,7 @@
                 "reference": ""
             },
             {
-                "question": "Which of the following are NOT considered money market instruments? I. American depositary receipts. II. Commercial paper.III. Corporate bonds.IV. Jumbo (negotiable) certificates of deposit.",
+                "question": "Which of the following are NOT considered money market instruments? <br><br>I. American depositary receipts. <br>II. Commercial paper. <br>III. Corporate bonds. <br>IV. Jumbo (negotiable) certificates of deposit.",
                 "answers": [
                     "I and II",
                     "I and III",
@@ -783,7 +783,7 @@
                 "reference": " 8.1.5 in the License Exam Manual"
             },
             {
-                "question": "Which of the following statements about the redemption of mutual fund shares are TRUE? I. A mutual fund may, but is not required to, redeem its shares if requested by a shareholder. II. A mutual fund will redeem fractional shares as well as full shares. III. Redemptions of mutual fund shares are handled under forward pricing.  ",
+                "question": "Which of the following statements about the redemption of mutual fund shares are TRUE? <br><br>I. A mutual fund may, but is not required to, redeem its shares if requested by a shareholder. <br>II. A mutual fund will redeem fractional shares as well as full shares. <br>III. Redemptions of mutual fund shares are handled under forward pricing.  ",
                 "answers": [
                     "I and II",
                     "II and III",
@@ -831,7 +831,7 @@
                 "reference": ""
             },
             {
-                "question": " An investor is considering the purchase of $100,000 maturity value of zero-coupon AAA rated corporate bonds scheduled to mature in 20 years. Among the risks that this investor will be assuming are I. Default risk. II. Interest rate risk. III. Pre-payment risk. IV. Reinvestment risk.   ",
+                "question": " An investor is considering the purchase of $100,000 maturity value of zero-coupon AAA rated corporate bonds scheduled to mature in 20 years. Among the risks that this investor will be assuming are <br><br>I. Default risk. <br>II. Interest rate risk. <br>III. Pre-payment risk. <br>IV. Reinvestment risk.",
                 "answers": [
                     "II and III",
                     "III and IV",
@@ -873,7 +873,7 @@
         "id": 4,
         "questions": [
             {
-                "question": "The common stock of the YXZ Pharmaceutical Corporation, listed on the NYSE, is likely to be subject to: I. business risk.  II. credit risk. III. liquidity risk.  IV. regulatory risk.  ",
+                "question": "The common stock of the YXZ Pharmaceutical Corporation, listed on the NYSE, is likely to be subject to: <br><br>I. business risk. <br>II. credit risk. <br>III. liquidity risk. <br>IV. regulatory risk.",
                 "answers": [
                     "II and III",
                     "I and IV",
@@ -933,7 +933,7 @@
                 "reference": ""
             },
             {
-                "question": "Which of the following must be considered in evaluating the suitability of a DPP investment for a customer? I. Risk tolerance.  II. Other holdings. III. Financial situation.  IV. Age.",
+                "question": "Which of the following must be considered in evaluating the suitability of a DPP investment for a customer? <br><br>I. Risk tolerance. <br>II. Other holdings. <br>III. Financial situation. <br>IV. Age.",
                 "answers": [
                     "I and II",
                     "I, II, III and IV.",
@@ -969,7 +969,7 @@
                 "reference": ""
             },
             {
-                "question": "Which two are most associated with a Treasury bond? I. Credit risk.  II. Liquidity risk. III. Reinvestment risk.  IV. Interest rate risk. ",
+                "question": "Which two are most associated with a Treasury bond? <br><br>I. Credit risk. <br>II. Liquidity risk. <br>III. Reinvestment risk. <br>IV. Interest rate risk. ",
                 "answers": [
                     "I and II",
                     "I and IV",
@@ -1017,7 +1017,7 @@
                 "reference": ""
             },
             {
-                "question": "Which of the following securities are the most interest-rate sensitive? I. Utility stocks.  II. Growth stocks.  III. Preferred stocks.  IV. Common stocks. ",
+                "question": "Which of the following securities are the most interest-rate sensitive? <br><br>I. Utility stocks. <br>II. Growth stocks. <br>III. Preferred stocks. <br>IV. Common stocks. ",
                 "answers": [
                     "I amd II",
                     "I and III",
@@ -1089,7 +1089,7 @@
                 "reference": ""
             },
             {
-                "question": "Among the effects of a country devaluating its currency is that there will probably be: I. a credit to that nation's trade account balance.  II. a debit to that nation's trade account balance.  III. an increase in that nation's exports.  IV. an increase in that nation's imports.",
+                "question": "Among the effects of a country devaluating its currency is that there will probably be: <br><br>I. a credit to that nation's trade account balance. <br>II. a debit to that nation's trade account balance. <br>III. an increase in that nation's exports. <br>IV. an increase in that nation's imports.",
                 "answers": [
                     "II and IV",
                     "I and III",
@@ -1161,7 +1161,7 @@
                 "reference": ""
             },
             {
-                "question": " If the value of the U.S. dollar increases against other currencies, which of the following are TRUE? I. U.S. exports are more competitive in foreign countries. II. U.S. exports are less competitive in foreign countries. III. Foreign imports into the U.S. are more competitive in U.S. markets. IV. Foreign imports into the US are less competitive in U.S. markets.",
+                "question": " If the value of the U.S. dollar increases against other currencies, which of the following are TRUE? <br><br>I. U.S. exports are more competitive in foreign countries. <br>II. U.S. exports are less competitive in foreign countries. <br>III. Foreign imports into the U.S. are more competitive in U.S. markets. <br>IV. Foreign imports into the US are less competitive in U.S. markets.",
                 "answers": [
                     " II and IV",
                     " II and III.",
@@ -1185,7 +1185,7 @@
                 "reference": ""
             },
             {
-                "question": " Over the past five years, an investor's portfolio has shown returns of 6%, 4%, 11%, 10%, and 4%. Which of the following statements is correct? I. The mean return is 7% II. The median return is 6% III. The mode is 4% IV. The range is 7%",
+                "question": " Over the past five years, an investor's portfolio has shown returns of 6%, 4%, 11%, 10%, and 4%. Which of the following statements is correct? <br><br>I. The mean return is 7% <br>II. The median return is 6% <br>III. The mode is 4% <br>IV. The range is 7%",
                 "answers": [
                     " III and IV ",
                     " I, II, and III ",
@@ -1209,7 +1209,7 @@
                 "reference": ""
             },
             {
-                "question": " Which of the following statements about diversification are TRUE? I. Diversification involves investing a portfolio in one, or very few, classes of investments. II. Diversification is a way to reduce unsystematic risk in a portfolio. III. Diversification is a defensive investment strategy",
+                "question": " Which of the following statements about diversification are TRUE? <br><br>I. Diversification involves investing a portfolio in one, or very few, classes of investments. <br>II. Diversification is a way to reduce unsystematic risk in a portfolio. <br>III. Diversification is a defensive investment strategy",
                 "answers": [
                     " I and II ",
                     " II and III ",
@@ -1251,7 +1251,7 @@
                 "reference": ""
             },
             {
-                "question": "Asset allocation is an important element of the portfolio management process because I. different asset classes have different risk and return characteristics  II. research indicates that asset allocation is much more important than security selection III.  portfolios that are focused on different asset classes will have very different returns over time  IV. investors may prefer returns in different forms (e.g., income or capital appreciation) ",
+                "question": "Asset allocation is an important element of the portfolio management process because <br><br>I. different asset classes have different risk and return characteristics  <br>II. research indicates that asset allocation is much more important than security selection <br>III.  portfolios that are focused on different asset classes will have very different returns over time  <br>IV. investors may prefer returns in different forms (e.g., income or capital appreciation) ",
                 "answers": [
                     "I, II and III only",
                     "I, II and IV only",
@@ -1287,7 +1287,7 @@
                 "reference": ""
             },
             {
-                "question": "Which of the following statements about C corporations are TRUE? I. A C corporation pays income tax on its earnings at the corporate level.  II. The income of C corporations is subject to double taxation. III. Dividends paid by a C corporation are not subject to income tax at the shareholder level. ",
+                "question": "Which of the following statements about C corporations are TRUE? <br><br>I. A C corporation pays income tax on its earnings at the corporate level. <br>II. The income of C corporations is subject to double taxation. <br>III. Dividends paid by a C corporation are not subject to income tax at the shareholder level. ",
                 "answers": [
                     "II and III.",
                     "I and II.",
@@ -1479,12 +1479,12 @@
                 "reference": ""
             },
             {
-                "question": " Assets that might be found on a family balance sheet include: I. car loan. II. gold watch. III. Keogh plan. IV. salary",
+                "question": " Assets that might be found on a family balance sheet include: <br><br>I. car loan. <br>II. gold watch. <br>III. Keogh plan. <br>IV. salary",
                 "answers": [
                     "I and IV",
-                    " I and II",
+                    "I and II",
                     "II and III",
-                    " III and IV "
+                    "III and IV "
                 ],
                 "correctAnswerIndex": 2,
                 "explanation": "NA",
@@ -1503,7 +1503,7 @@
                 "reference": ""
             },
             {
-                "question": "IAn investor can choose between four portfolios with the following expected returns and standard deviations. Expected Return Standard Deviation I. 8% 20% II. 6% 21% III. 8% 21% IV. 7% 22% ",
+                "question": "IAn investor can choose between four portfolios with the following expected returns and standard deviations. Expected Return Standard Deviation <br><br>I. 8% 20% <br>II. 6% 21% <br>III. 8% 21% <br>IV. 7% 22% ",
                 "answers": [
                     "II",
                     "III",
@@ -1653,7 +1653,7 @@
                 "reference": ""
             },
             {
-                "question": "Which of the following statements about brokers and dealers are TRUE?  I. A broker acts as an agent in a trade; it brings buyers and sellers together. II. A dealer acts as a principal in a trade. III. A securities firm may act as both a broker and as a dealer.",
+                "question": "Which of the following statements about brokers and dealers are TRUE?  <br><br>I. A broker acts as an agent in a trade; it brings buyers and sellers together. <br>II. A dealer acts as a principal in a trade. <br>III. A securities firm may act as both a broker and as a dealer.",
                 "answers": [
                     "II and III",
                     "I and III",
@@ -1809,7 +1809,7 @@
                 "reference": ""
             },
             {
-                "question": "Which of the following statements is TRUE regarding Section 529 Plans? I. Funds withdrawn for qualified education expenses are always free of federal income tax. II. Funds withdrawn for qualified education expenses are always free of state income tax. III. The maximum contribution limits are determined on a federal level. IV. The maximum contribution limits are determined on a state level. ",
+                "question": "Which of the following statements is TRUE regarding Section 529 Plans? <br><br>I. Funds withdrawn for qualified education expenses are always free of federal income tax. <br>II. Funds withdrawn for qualified education expenses are always free of state income tax. <br>III. The maximum contribution limits are determined on a federal level. <br>IV. The maximum contribution limits are determined on a state level. ",
                 "answers": [
                     " I and III.",
                     " II and III",
@@ -1821,7 +1821,7 @@
                 "reference": ""
             },
             {
-                "question": "Company-sponsored 401(k) retirement programs have which of the following? I. Voluntary employee contributions. II. Voluntary employer contributions. III. Mandatory employee contributions. IV. Mandatory employer contributions. ",
+                "question": "Company-sponsored 401(k) retirement programs have which of the following? <br><br>I. Voluntary employee contributions. <br>II. Voluntary employer contributions. <br>III. Mandatory employee contributions. <br>IV. Mandatory employer contributions. ",
                 "answers": [
                     "II and III",
                     "I and II",
@@ -1833,7 +1833,7 @@
                 "reference": ""
             },
             {
-                "question": "Which of the following statements are true about both an individual Roth  IRA and a Roth 401(k) plan? I. contributions are made with after-tax dollars. II. one must have AGI below a certain level in order to maintain either Roth. III. if all the conditions are met, withdrawals are tax-free. IV. there are no RMDs at age 70 1⁄2",
+                "question": "Which of the following statements are true about both an individual Roth  IRA and a Roth 401(k) plan? <br><br>I. contributions are made with after-tax dollars. <br>II. one must have AGI below a certain level in order to maintain either Roth. <br>III. if all the conditions are met, withdrawals are tax-free. <br>IV. there are no RMDs at age 70 1⁄2",
                 "answers": [
                     "II and IV",
                     "III and IV",
@@ -1917,7 +1917,7 @@
                 "reference": ""
             },
             {
-                "question": "A lump-sum distribution from a 401(k) before retirement may be I. eligible to be rolled over into a traditional IRA. II. subject to ordinary income tax and penalty. III. eligible to be transferred to a Roth IRA. IV. tax free if the recipient is disabled.",
+                "question": "A lump-sum distribution from a 401(k) before retirement may be <br><br>I. eligible to be rolled over into a traditional IRA. <br>II. subject to ordinary income tax and penalty. <br>III. eligible to be transferred to a Roth IRA. <br>IV. tax free if the recipient is disabled.",
                 "answers": [
                     "I and III",
                     "II and III",

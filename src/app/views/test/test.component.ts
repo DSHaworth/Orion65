@@ -21,8 +21,21 @@ export class TestComponent implements OnInit {
   ) { }
 
   onTestChange(event){
-    this.loggingService.log(event);
+    //this.loggingService.log(event);
     this.getQuestions(event.value);
+  }
+
+  onRefreshClicked(){    
+
+    // Shuffle Questions
+    let questions = this.shuffle(this.selectedTest.questions);
+
+    // Shuffle Answers
+    for(let idx = 0, max = questions.length ; idx < max ; idx++){
+      questions[idx].answers = this.shuffle(questions[idx].answers);
+    }
+
+    this.selectedTest.questions = questions;
   }
 
   getQuestions(testId: number){
@@ -34,7 +47,7 @@ export class TestComponent implements OnInit {
       .subscribe( 
         result => {          
           this.loggingService.log(result);
-          this.selectedTest = result;          
+          this.selectedTest = result;
         },
         error => {
           this.snackbarService.showError(error);
@@ -42,7 +55,6 @@ export class TestComponent implements OnInit {
         }
       ).add(() => {
         this.isBusy = false;
-        this.loggingService.log("DONE");
       });    
   }
 
@@ -51,7 +63,7 @@ export class TestComponent implements OnInit {
     this.questionsService.getTests()
       .subscribe( 
         result => {          
-          this.loggingService.log(result);
+          //this.loggingService.log(result);
           this.tests = result;          
         },
         error => {
