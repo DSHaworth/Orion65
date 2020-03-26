@@ -1,6 +1,5 @@
 <mat-card-title style="line-height: 1.4em; margin-bottom: 1em;">
-  <div [innerHtml]="q.question | safe: 'html'"></div>
-
+  <div [innerHtml]="question.question | safe: 'html'"></div>
 </mat-card-title>
 
 <mat-card-content >      
@@ -9,9 +8,9 @@
     [multiple]="false" 
     [(ngModel)]="selectedOption">
 
-    <mat-list-option             
-      *ngFor="let answer of q.answers; let i = index"
-      [ngClass]="{'correctAnswer' : isCorrectAnswer}"
+    <mat-list-option 
+      [class]="classname"
+      *ngFor="let answer of question.answers; let i = index"      
       [value]="i">
       {{i + 1}}. {{ answer.answer }}
     </mat-list-option>
@@ -27,6 +26,6 @@
   </button>
 </mat-card-actions>
 <mat-card-footer style="padding: 2em;">
-  <div>{{q.explanation}}</div>
-  <div>{{q.reference}}</div>
+  <div>{{question.explanation}}</div>
+  <div>{{question.reference}}</div>
 </mat-card-footer>

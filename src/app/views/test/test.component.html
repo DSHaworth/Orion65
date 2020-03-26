@@ -23,7 +23,7 @@
     </h1>
 
     <mat-card *ngFor="let q of selectedTest.questions; let i = index" style="margin: 4em;">
-      <app-question [q]="q"></app-question>
+      <app-question [question]="q" [index]="i"></app-question>
     </mat-card>
 
     <!-- <pre><code>{{selectedTest.questions | json}}</code></pre> -->

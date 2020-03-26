@@ -7,28 +7,42 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class QuestionComponent implements OnInit {
 
-  @Input() q: any;
+  @Input() question: any;
+  @Input() index: string;
   selectedOption: string;
-  isCorrectAnswer: boolean = false;
+  classname: string;
 
   constructor() { }
 
   onSubmitClick(){
-    console.log(this.q);
+    console.log(this.question);
     console.log(this.selectedOption);
-
-    const selectedOption = parseInt(this.selectedOption);
     
-    if(this.q.answers[selectedOption].isCorrect){      
-      this.isCorrectAnswer = true;
+    const selectedOption = parseInt(this.selectedOption);
+    let correctIndex: number;
+    
+    const responses = document.getElementsByClassName(this.classname);
+
+    for(var idx = 0, max = responses.length ; idx < max ; idx++){
+      responses[idx].classList.remove("correctAnswer");
+      responses[idx].classList.remove("incorrectAnswer");
+
+      if(this.question.answers[idx].isCorrect){
+        correctIndex = idx;
+      }
+    }    
+
+    if(this.question.answers[selectedOption].isCorrect){
+      responses[selectedOption].classList.add("correctAnswer");
     } else {
-      alert("Incorrect");
-      this.isCorrectAnswer = false;
+      responses[correctIndex].classList.add("correctAnswer");
+      responses[selectedOption].classList.add("incorrectAnswer");
     }    
 
   }
 
   ngOnInit(): void {
+    this.classname = "response" + this.index;
   }
 
 }
