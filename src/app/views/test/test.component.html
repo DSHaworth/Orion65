@@ -1,5 +1,3 @@
-<p>test works!</p>
-
 <mat-form-field>
   <mat-label>Select a test option</mat-label>
   <mat-select (selectionChange)="onTestChange($event)">
@@ -18,16 +16,12 @@
 <div *ngIf="selectedTest && selectedTest.questions.length > 0; then dataBlock else noDataBlock"></div>
 <ng-template #dataBlock>
   
-    <h1>
-      {{ selectedTest.name }}
-    </h1>
-
     <mat-card *ngFor="let q of selectedTest.questions; let i = index" style="margin: 4em;">
       <app-question [question]="q" [index]="i"></app-question>
     </mat-card>
 
     <!-- <pre><code>{{selectedTest.questions | json}}</code></pre> -->
-    <pre><code>{{selectedTest | json}}</code></pre>
+    <!-- <pre><code>{{selectedTest | json}}</code></pre> -->
 
 </ng-template>
 <ng-template #noDataBlock></ng-template> 

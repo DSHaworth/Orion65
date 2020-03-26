@@ -19,9 +19,8 @@ export class QuestionComponent implements OnInit {
     console.log(this.selectedOption);
     
     const selectedOption = parseInt(this.selectedOption);
-    let correctIndex: number;
-    
-    const responses = document.getElementsByClassName(this.classname);
+    let correctIndex: number;    
+    let responses = document.getElementsByClassName(this.classname);
 
     for(var idx = 0, max = responses.length ; idx < max ; idx++){
       responses[idx].classList.remove("correctAnswer");
