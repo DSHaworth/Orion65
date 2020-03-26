@@ -23,31 +23,7 @@
     </h1>
 
     <mat-card *ngFor="let q of selectedTest.questions; let i = index" style="margin: 4em;">
-      <mat-card-title style="line-height: 1.4em; margin-bottom: 1em;">
-        <div [innerHtml]="q.question | safe: 'html'"></div>
-
-      </mat-card-title>
-      
-      <mat-card-content >      
-        
-        <mat-selection-list [multiple]="false">
-          <mat-list-option             
-            *ngFor="let answer of q.answers; let i = index"
-            [ngClass]="{'correctAnswer' : answer.isCorrect}">
-            {{i + 1}}. {{ answer.answer }}
-          </mat-list-option>
-        </mat-selection-list>            
-        
-      </mat-card-content>
-      <mat-card-actions style="display: flex; flex-direction: row; justify-content: flex-end;">        
-        <button mat-raised-button color="primary">
-          Submit
-        </button>
-      </mat-card-actions>
-      <mat-card-footer style="padding: 2em;">
-        <div>{{q.explanation}}</div>
-        <div>{{q.reference}}</div>
-      </mat-card-footer>
+      <app-question [q]="q"></app-question>
     </mat-card>
 
     <!-- <pre><code>{{selectedTest.questions | json}}</code></pre> -->

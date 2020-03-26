@@ -18,6 +18,7 @@ import { LandingPageComponent } from './views/landing-page/landing-page.componen
 import { SnackbarComponent } from './services/ui/snackbar.service';
 import { interceptorProviders } from './services/interceptors/interceptors';
 import { SafePipe } from './pipes/safe.pipe';
+import { QuestionComponent } from './components/question/question.component';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { SafePipe } from './pipes/safe.pipe';
     SideNavComponent,
     SnackbarComponent,
     SafePipe,
+    QuestionComponent,
   ],
   imports: [
     BrowserModule,
