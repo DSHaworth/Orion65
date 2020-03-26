@@ -16,9 +16,9 @@
 <div *ngIf="selectedTest && selectedTest.questions.length > 0; then dataBlock else noDataBlock"></div>
 <ng-template #dataBlock>
   
-    <mat-card *ngFor="let q of selectedTest.questions; let i = index" style="margin: 4em;">
-      <app-question [question]="q" [index]="i"></app-question>
-    </mat-card>
+  <mat-card *ngFor="let q of shuffledQuestions; let i = index" style="margin: 4em;">
+    <app-question [question]="q" [index]="i" (responseEvent)="responseEvent($event)"></app-question>
+  </mat-card>
 
     <!-- <pre><code>{{selectedTest.questions | json}}</code></pre> -->
     <!-- <pre><code>{{selectedTest | json}}</code></pre> -->

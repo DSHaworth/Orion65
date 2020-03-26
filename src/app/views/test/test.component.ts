@@ -13,7 +13,11 @@ export class TestComponent implements OnInit {
   private isBusy: boolean = false;
   public tests: any[];
   public selectedTest: any;
+  public shuffledQuestions: any;
   
+  correctAnswers: number = 0;
+  incorrectAnswers: number = 0;
+
   constructor(
     private questionsService: QuestionsService,
     private snackbarService: SnackbarService,
@@ -25,7 +29,27 @@ export class TestComponent implements OnInit {
     this.getQuestions(event.value);
   }
 
-  onRefreshClicked(){    
+  onRefreshClicked(){
+    this.shuffleQuestions();
+  }
+
+  responseEvent(event){
+    if(event){
+      this.correctAnswers += 1;
+    } else {
+      this.incorrectAnswers += 1;
+    }
+
+    if(this.correctAnswers + this.incorrectAnswers === this.shuffledQuestions.length){
+      alert( `Grade ${(this.correctAnswers / this.shuffledQuestions.length) * 100}%`)
+    }
+
+  }
+
+  shuffleQuestions(){
+
+    this.correctAnswers = 0;
+    this.incorrectAnswers = 0;  
 
     // Shuffle Questions
     let questions = this.shuffle(this.selectedTest.questions);
@@ -35,7 +59,12 @@ export class TestComponent implements OnInit {
       questions[idx].answers = this.shuffle(questions[idx].answers);
     }
 
-    this.selectedTest.questions = questions;
+    // for(let idx = 0, max = questions.length ; idx < max ; idx++){
+    //   this.suffledTest = this.shuffle(questions[idx].answers);
+    // }
+
+    this.shuffledQuestions = questions.slice(0, 20);
+    console.log(this.shuffledQuestions);
   }
 
   getQuestions(testId: number){
@@ -48,6 +77,8 @@ export class TestComponent implements OnInit {
         result => {          
           this.loggingService.log(result);
           this.selectedTest = result;
+
+          this.shuffleQuestions();
         },
         error => {
           this.snackbarService.showError(error);

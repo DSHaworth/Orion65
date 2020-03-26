@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-question',
@@ -9,6 +9,9 @@ export class QuestionComponent implements OnInit {
 
   @Input() question: any;
   @Input() index: string;
+  @Output() responseEvent = new EventEmitter<boolean>();
+
+  answerSubmited: boolean = false;
   selectedOption: string;
   classname: string;
 
@@ -17,6 +20,8 @@ export class QuestionComponent implements OnInit {
   onSubmitClick(){
     console.log(this.question);
     console.log(this.selectedOption);
+
+    this.answerSubmited = true;
     
     const selectedOption = parseInt(this.selectedOption);
     let correctIndex: number;    
@@ -33,11 +38,12 @@ export class QuestionComponent implements OnInit {
 
     if(this.question.answers[selectedOption].isCorrect){
       responses[selectedOption].classList.add("correctAnswer");
+      this.responseEvent.emit(true);
     } else {
       responses[correctIndex].classList.add("correctAnswer");
       responses[selectedOption].classList.add("incorrectAnswer");
-    }    
-
+      this.responseEvent.emit(false);
+    }
   }
 
   ngOnInit(): void {
