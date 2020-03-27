@@ -491,7 +491,7 @@
             {
                 "question": "An investment adviser is preparing an advertisement. Which of the following would be acceptable? <br><br>I. An endorsement on radio or TV from a celebrity who is a client of the firm. <br>II. Identifying his best investment recommendations for the past 6 months. <br>III. Offering to provide his investment recommendations for the past 12 months. <br>IV. Promoting his system of charts and formulas while mentioning their limitations and difficulties.",
                 "answers": [
-                    "I abd II",
+                    "I and II",
                     "III and IV",
                     "I and IV",
                     "II and III"
@@ -499,6 +499,54 @@
                 "correctAnswerIndex": 1,
                 "explanation": "",
                 "reference": ""
+            },
+            {
+              "question": "Federally-registered investment advisers are obligated to maintain certain books and records as specified by the SEC. Which of the following statements regarding adviser recordkeeping is NOT true?",
+              "answers": [
+                  "Records are subject to surprise audits by the SEC",
+                  "Written records may be reduced to microfilm",
+                  "Records must be kept for six years",
+                  "Records originally created on computer may be stored in electronic media"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "A customer owns cumulative stock (par value of $100) that pays 8% dividend. The dividend has not been paid this year or for the 2 previous years. How much must the company pay the customer per share before it may pay dividends to the common stockholders",
+              "answers": [
+                  "$24.00",
+                  "$16.00",
+                  "$0.00",
+                  "$8.00"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "Which of the following statements accurately describes the doctrine of limited liability?",
+              "answers": [
+                  "A shareholder of a corporation is not personally liable for the corporation's debts.",
+                  "The owner of a sole proprietorship is not personally liable for the proprietorship's debts.",
+                  "A shareholder of a corporation has some personal liablilty for the corporation's debts.",
+                  "A partner is not personally liable for the debts of the partnership."
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "An analyst uses the Dividend Growth Model to assist in determining appropriate stocks to recommend.  This analyst would consider all of the following factors EXCEPT:",
+              "answers": [
+                  "required rate of return",
+                  "growth of the dividend",
+                  "dividend payout ratio",
+                  "current dividend"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "",
+              "reference": ""
             }
         ]
     },

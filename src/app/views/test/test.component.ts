@@ -14,6 +14,7 @@ export class TestComponent implements OnInit {
   public tests: any[];
   public selectedTest: any;
   public shuffledQuestions: any;
+  public numberOfQuestions: number = 20;
   public grade: string = "";
   
   correctAnswers: number = 0;
@@ -52,7 +53,7 @@ export class TestComponent implements OnInit {
     this.correctAnswers = 0;
     this.incorrectAnswers = 0;  
     this.grade = "";
-
+    
     // Shuffle Questions
     let questions = this.shuffle(this.selectedTest.questions);
 
@@ -65,7 +66,7 @@ export class TestComponent implements OnInit {
     //   this.suffledTest = this.shuffle(questions[idx].answers);
     // }
 
-    this.shuffledQuestions = questions.slice(0, 20);
+    this.shuffledQuestions = questions.slice(0, this.numberOfQuestions);
     console.log(this.shuffledQuestions);
   }
 

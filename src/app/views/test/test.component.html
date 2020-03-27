@@ -1,17 +1,25 @@
 <div style="display: flex; flex-direction: row;">
-  <mat-form-field>
-    <mat-label>Select a test option</mat-label>
+  <mat-form-field style="width: 8em;">
+    <mat-label>Select Test</mat-label>
     <mat-select (selectionChange)="onTestChange($event)">
       <mat-option *ngFor="let test of tests" [value]="test.id" >{{ test.name }}</mat-option>
     </mat-select>
   </mat-form-field>
-  <button mat-mini-fab 
-    color="primary" 
-    style="margin-left: 1em;" 
-    [disabled]="!(selectedTest && selectedTest.questions.length)"
-    (click)="onRefreshClicked()">
-    <i class="fas fa-redo"></i>
-  </button>
+
+  <div *ngIf="selectedTest && selectedTest.questions.length > 0">
+    <mat-form-field style="width: 6em; padding-left: 2em;" >
+      <input matInput placeholder="# of questions" type="number" class="form-control" min="1" [max]="selectedTest.questions.length" [(ngModel)]="numberOfQuestions">
+    </mat-form-field>
+  
+    <button mat-mini-fab 
+      color="primary" 
+      style="margin-left: 1em;" 
+      [disabled]="!(selectedTest && selectedTest.questions.length)"
+      (click)="onRefreshClicked()">
+      <i class="fas fa-redo"></i>
+    </button>
+  </div>
+
   <div class="spacer"></div>
   <h2>
     {{ grade }}
