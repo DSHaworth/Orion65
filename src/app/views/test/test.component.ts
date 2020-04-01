@@ -12,9 +12,10 @@ export class TestComponent implements OnInit {
 
   private isBusy: boolean = false;
   public tests: any[];
+  public selectedTestId: number;
   public selectedTest: any;
   public shuffledQuestions: any;
-  public numberOfQuestions: number = 20;
+  public numberOfQuestions: number = 100;
   public grade: string = "";
   
   correctAnswers: number = 0;
@@ -28,11 +29,18 @@ export class TestComponent implements OnInit {
 
   onTestChange(event){
     //this.loggingService.log(event);
-    this.getQuestions(event.value);
+    this.selectedTestId = event.value;
+    this.getQuestions();
   }
 
   onRefreshClicked(){
-    this.shuffleQuestions();
+
+    this.getQuestions();
+
+    // //this.shuffleQuestions();
+    // this.shuffledQuestions.length = 0;
+    // this.shuffledQuestions = null;
+    // this.shuffleQuestions();
   }
 
   responseEvent(event){
@@ -55,27 +63,23 @@ export class TestComponent implements OnInit {
     this.grade = "";
     
     // Shuffle Questions
-    let questions = this.shuffle(this.selectedTest.questions);
+    let questions = this.shuffle(this.selectedTest.questions.slice());
 
     // Shuffle Answers
     for(let idx = 0, max = questions.length ; idx < max ; idx++){
       questions[idx].answers = this.shuffle(questions[idx].answers);
     }
 
-    // for(let idx = 0, max = questions.length ; idx < max ; idx++){
-    //   this.suffledTest = this.shuffle(questions[idx].answers);
-    // }
-
+    this.shuffledQuestions = questions.slice(0, 0);
     this.shuffledQuestions = questions.slice(0, this.numberOfQuestions);
-    console.log(this.shuffledQuestions);
   }
 
-  getQuestions(testId: number){
+  getQuestions(){
     this.isBusy = true;
 
-    this.loggingService.log(testId);
+    this.loggingService.log(this.selectedTestId);
 
-    this.questionsService.getQuestions(testId)
+    this.questionsService.getQuestions(this.selectedTestId)
       .subscribe( 
         result => {          
           this.loggingService.log(result);

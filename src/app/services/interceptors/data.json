@@ -795,113 +795,173 @@
                 "reference": ""
             },
             {
-                "question": "A farmer entered into a forward contract to sell his produce at $2.25 per bushel. At the expiration date of the contract, the price was $2.00 per bushel. The farmer would receive   ",
-                "answers": [
-                    "$2.25",
-                    "$2.125 per contract",
-                    " a price negotiated between the buyer and seller",
-                    "$2.00 "
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
+              "question": "A farmer entered into a forward contract to sell his produce at $2.25 per bushel. At the expiration date of the contract, the price was $2.00 per bushel. The farmer would receive   ",
+              "answers": [
+                  "$2.25",
+                  "$2.125 per contract",
+                  " a price negotiated between the buyer and seller",
+                  "$2.00 "
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "",
+              "reference": ""
             },
             {
-                "question": "Bob, age 60, has invested $17,000 in his nonqualified variable annuity over the years. The total value has reached $26,000. He wishes to withdraw $15,000 to send his son to college. What is his tax consequence on the withdrawal?  ",
-                "answers": [
-                    "$6,500 is nontaxable; $8,500 is taxable",
-                    "$9,000 is taxable; $6,000 is nontaxable",
-                    "The entire amount is taxable",
-                    "The entire amount is nontaxable. "
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "Because this is a nonqualified plan, the $17,000 invested is after-tax dollars. Under the Tax Code, the taxable portion is considered to be withdrawn first in any lump-sum distribution. Therefore, the first dollars withdrawn are all taxable until the amount of withdrawal meets or exceeds the growth in the account. Because Bob is over 59-1⁄2, there is no 10% tax penalty on his withdrawals.   ",
-                "reference": " 8.1.5 in the License Exam Manual"
+              "question": "Bob, age 60, has invested $17,000 in his nonqualified variable annuity over the years. The total value has reached $26,000. He wishes to withdraw $15,000 to send his son to college. What is his tax consequence on the withdrawal?  ",
+              "answers": [
+                  "$6,500 is nontaxable; $8,500 is taxable",
+                  "$9,000 is taxable; $6,000 is nontaxable",
+                  "The entire amount is taxable",
+                  "The entire amount is nontaxable. "
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "Because this is a nonqualified plan, the $17,000 invested is after-tax dollars. Under the Tax Code, the taxable portion is considered to be withdrawn first in any lump-sum distribution. Therefore, the first dollars withdrawn are all taxable until the amount of withdrawal meets or exceeds the growth in the account. Because Bob is over 59-1⁄2, there is no 10% tax penalty on his withdrawals.   ",
+              "reference": " 8.1.5 in the License Exam Manual"
             },
             {
-                "question": "Which of the following statements about the redemption of mutual fund shares are TRUE? <br><br>I. A mutual fund may, but is not required to, redeem its shares if requested by a shareholder. <br>II. A mutual fund will redeem fractional shares as well as full shares. <br>III. Redemptions of mutual fund shares are handled under forward pricing.  ",
-                "answers": [
-                    "I and II",
-                    "II and III",
-                    "I and III",
-                    "I, II and III"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": "7.1.1.3 in the License Exam Manual "
+              "question": "Which of the following statements about the redemption of mutual fund shares are TRUE? <br><br>I. A mutual fund may, but is not required to, redeem its shares if requested by a shareholder. <br>II. A mutual fund will redeem fractional shares as well as full shares. <br>III. Redemptions of mutual fund shares are handled under forward pricing.  ",
+              "answers": [
+                  "I and II",
+                  "II and III",
+                  "I and III",
+                  "I, II and III"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "",
+              "reference": "7.1.1.3 in the License Exam Manual "
             },
             {
-                "question": " A review of the prospectus of an open-end investment company reveals that its portfolio consists entirely of CDs, Treasury bills, and repurchase agreements. This is probably a(n):",
-                "answers": [
-                    "balance fund",
-                    "money market fund",
-                    "index fund",
-                    "exchange-traded fund (ETF)"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
+              "question": " A review of the prospectus of an open-end investment company reveals that its portfolio consists entirely of CDs, Treasury bills, and repurchase agreements. This is probably a(n):",
+              "answers": [
+                  "balance fund",
+                  "money market fund",
+                  "index fund",
+                  "exchange-traded fund (ETF)"
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "",
+              "reference": ""
             },
             {
-                "question": "An investor interested in obtaining the benefit of professional portfolio management has been tracking a particular investment company for the past several months. In so doing, it becomes obvious that the market price of the shares moves in direct relation to the computed NAV. This investor must be following    :",
-                "answers": [
-                    "a balanced fund",
-                    "money market fund",
-                    "an open-end fund",
-                    "a closed-end fund "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
+              "question": "An investor interested in obtaining the benefit of professional portfolio management has been tracking a particular investment company for the past several months. In so doing, it becomes obvious that the market price of the shares moves in direct relation to the computed NAV. This investor must be following    :",
+              "answers": [
+                  "a balanced fund",
+                  "money market fund",
+                  "an open-end fund",
+                  "a closed-end fund "
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "",
+              "reference": ""
             },
             {
-                "question": "Money market instruments are",
-                "answers": [
-                    "intermediate debt",
-                    "long-term equity",
-                    "short-term debt",
-                    "long-term debt "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
+              "question": "Money market instruments are",
+              "answers": [
+                  "intermediate debt",
+                  "long-term equity",
+                  "short-term debt",
+                  "long-term debt "
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "",
+              "reference": ""
             },
             {
-                "question": " An investor is considering the purchase of $100,000 maturity value of zero-coupon AAA rated corporate bonds scheduled to mature in 20 years. Among the risks that this investor will be assuming are <br><br>I. Default risk. <br>II. Interest rate risk. <br>III. Pre-payment risk. <br>IV. Reinvestment risk.",
-                "answers": [
-                    "II and III",
-                    "III and IV",
-                    "I and II",
-                    "I and IV "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
+              "question": " An investor is considering the purchase of $100,000 maturity value of zero-coupon AAA rated corporate bonds scheduled to mature in 20 years. Among the risks that this investor will be assuming are <br><br>I. Default risk. <br>II. Interest rate risk. <br>III. Pre-payment risk. <br>IV. Reinvestment risk.",
+              "answers": [
+                  "II and III",
+                  "III and IV",
+                  "I and II",
+                  "I and IV "
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "",
+              "reference": ""
             },
             {
-                "question": "An unsecured bond is also known as ",
-                "answers": [
-                    "equipment trust certificate",
-                    "debenture",
-                    "collateral trust bond",
-                    "mortgage bond."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
+              "question": "An unsecured bond is also known as ",
+              "answers": [
+                  "equipment trust certificate",
+                  "debenture",
+                  "collateral trust bond",
+                  "mortgage bond."
+              ],
+              "correctAnswerIndex": 1,
+              "explanation": "",
+              "reference": ""
             },
             {
-                "question": "A bond, preferred stock, or debenture exchangeable at the option of the holder (for common stock of the issuing corporation) is a:  ",
-                "answers": [
-                    "collateral-backed equity security",
-                    "synthetic security",
-                    "nondilutive stock",
-                    "convertible security"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            }
+              "question": "A bond, preferred stock, or debenture exchangeable at the option of the holder (for common stock of the issuing corporation) is a:  ",
+              "answers": [
+                  "collateral-backed equity security",
+                  "synthetic security",
+                  "nondilutive stock",
+                  "convertible security"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "Which of the following statements correctly describe similarities between exchange-traded funds and closed-end investment companies?<br><br>I. There are a limited number of outstanding shares.<br>II. They are traded on registered stock exchanges.<br>III. They trade at prices that are not dependent upon but close to their net asset value.<br>IV. Investors pay commissions to purchase and liquidate their positions.",
+              "answers": [
+                  "II and IV",
+                  "II and III",
+                  "I and IV",
+                  "I and III"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "All the following securities are bought at a discount EXCEPT",
+              "answers": [
+                  "Treasury bills",
+                  "commercial paper",
+                  "CDs",
+                  "zero coupon bonds"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "",
+              "answers": [
+                  "",
+                  "",
+                  "",
+                  ""
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "A commodities speculator purchases a 1,000-bushel wheat futures contract for 75 cents per bushel. At expiration, the settlement prices is 85 cents per bushel. This individual",
+              "answers": [
+                  "has a $100 loss",
+                  "must make delivery of the wheat",
+                  "effectively hedged the long wheat position",
+                  "has a $100 gain"
+              ],
+              "correctAnswerIndex": 3,
+              "explanation": "",
+              "reference": ""
+            },
+            {
+              "question": "A bond selling for $20 above par would be quoted",
+              "answers": [
+                  "1,200.00",
+                  "1,020.00",
+                  "102",
+                  "120"
+              ],
+              "correctAnswerIndex": 2,
+              "explanation": "",
+              "reference": ""
+            }            
         ]
     },
     {

@@ -1,11 +1,11 @@
-import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit, OnDestroy, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-question',
   templateUrl: './question.component.html',
   styleUrls: ['./question.component.scss']
 })
-export class QuestionComponent implements OnInit {
+export class QuestionComponent implements OnInit, OnDestroy {
 
   @Input() question: any;
   @Input() index: string;
@@ -17,6 +17,15 @@ export class QuestionComponent implements OnInit {
 
   constructor() { }
 
+  clearComponent(){
+    let responses = document.getElementsByClassName(this.classname);
+    for(var idx = 0, max = responses.length ; idx < max ; idx++){
+      responses[idx].classList.remove("correctAnswer");
+      responses[idx].classList.remove("incorrectAnswer");
+    }
+    return responses;
+  }
+
   onSubmitClick(){
     //console.log(this.question);
     //console.log(this.selectedOption);
@@ -24,7 +33,7 @@ export class QuestionComponent implements OnInit {
     this.answerSubmited = true;
     
     const selectedOption = parseInt(this.selectedOption);
-    let responses = document.getElementsByClassName(this.classname);
+    let responses = this.clearComponent();
     let correctIndex:number = this.question.answers.findIndex( (item)=>{ return item.isCorrect});
 
     this.selectedOption = null;
@@ -34,14 +43,6 @@ export class QuestionComponent implements OnInit {
 
     // console.log("question");
     // console.log(this.question);
-
-    for(var idx = 0, max = responses.length ; idx < max ; idx++){
-      responses[idx].classList.remove("correctAnswer");
-      responses[idx].classList.remove("incorrectAnswer");
-
-      console.log("this.question.answers[idx]");
-      console.log(this.question.answers[idx])
-    }    
     
     if(this.question.answers[selectedOption].isCorrect){
       responses[selectedOption].classList.add("correctAnswer");
@@ -57,4 +58,8 @@ export class QuestionComponent implements OnInit {
     this.classname = "response" + this.index;
   }
 
+  ngOnDestroy() {
+    this.clearComponent();
+    console.log("DESTROY");
+  }
 }
