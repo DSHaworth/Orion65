@@ -968,354 +968,415 @@
         "name": "Unit 4",
         "id": 4,
         "questions": [
-            {
-                "question": "The common stock of the YXZ Pharmaceutical Corporation, listed on the NYSE, is likely to be subject to: <br><br>I. business risk. <br>II. credit risk. <br>III. liquidity risk. <br>IV. regulatory risk.",
-                "answers": [
-                    "II and III",
-                    "I and IV",
-                    "I and II",
-                    "III and IV"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "The uncertainty resulting from the possibility that the value of an investment will be affected by a change in the law is known as: ",
-                "answers": [
-                    "credit risk",
-                    "buniness risk",
-                    "legislative risk",
-                    "market risk"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "You recently took a trip to Warsaw, Poland and when you received your credit card statement, you noticed that your vodka purchase for 100 Polish Zlotys resulted in a $30 charge on your statement. Based on this exchange rate, each dollar was worth approximately ",
-                "answers": [
-                    "3 zlotys",
-                    "$3.33",
-                    "3.33 zlotys",
-                    "$.33"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "credit risk is commonly referred to as",
-                "answers": [
-                    "interest rate risk",
-                    "unsystematic risk",
-                    "business risk",
-                    "default risk"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "An investment of $1,000 made 10 years ago is now worth $4,000. Using the Rule of 72, the approximate compounded annual rate of return is ",
-                "answers": [
-                    "25%",
-                    "14.4%",
-                    "40%",
-                    "7.2%"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following must be considered in evaluating the suitability of a DPP investment for a customer? <br><br>I. Risk tolerance. <br>II. Other holdings. <br>III. Financial situation. <br>IV. Age.",
-                "answers": [
-                    "I and II",
-                    "I, II, III and IV.",
-                    "I and IV",
-                    "II and III"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "As current interest rates go up, the market price of existing corporate bonds bearing lower interest rates will: ",
-                "answers": [
-                    "decrease",
-                    "stay the same",
-                    "change in unpredictable ",
-                    "increase"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "A client approaches the IAR handling the advisory account with a request to find a preferred stock that will offer a 6% income return. The IAR suggests a stock paying a $.28 quarterly dividend. That stock will meet the income objective if it has a current market price of  ",
-                "answers": [
-                    "11.91",
-                    "4.67",
-                    "18.67",
-                    "6.72"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which two are most associated with a Treasury bond? <br><br>I. Credit risk. <br>II. Liquidity risk. <br>III. Reinvestment risk. <br>IV. Interest rate risk. ",
-                "answers": [
-                    "I and II",
-                    "I and IV",
-                    "II and III",
-                    "III and IV"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following industries’ performance is least likely to track the business cycle? ",
-                "answers": [
-                    "Financials",
-                    "Pharmaceuticals",
-                    "Consumer durables",
-                    "Automobiles"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "If an analyst wished to determine the degree to which leverage was being employed by a subject company, she would most likely examine that issuer's: ",
-                "answers": [
-                    "sales to debit ratio",
-                    "debt to equity ratio",
-                    "price to book ratio",
-                    "current ratio"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "An individual owns assets worth $500,000 and has debts of $300,000. What is the individual's net worth? ",
-                "answers": [
-                    "800,000.00",
-                    "500,000.00",
-                    "200,000.00",
-                    "300,000.00"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following securities are the most interest-rate sensitive? <br><br>I. Utility stocks. <br>II. Growth stocks. <br>III. Preferred stocks. <br>IV. Common stocks. ",
-                "answers": [
-                    "I amd II",
-                    "I and III",
-                    "II and IV",
-                    "III and IV"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "All of the following actions will increase the deficit in the U.S. balance of payments EXCEPT: ",
-                "answers": [
-                    "purchase by foreigners of U.S. securities.",
-                    "U.S. foreign aid.",
-                    "Americans buying Japanese cars.",
-                    "investments by U.S. firms abroad"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "A customer purchased 100 shares of SNP at $38. At the time of purchase, the PE ratio was 12. Approximately what are the earnings per share of SNP? ",
-                "answers": [
-                    "3.80",
-                    "12.00",
-                    "3.20",
-                    "1.20"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "The prospectus for a fund states that the minimum initial investment is $500,000. This is most likely what type of fund? ",
-                "answers": [
-                    "Specialized",
-                    "Hedge",
-                    "Balanced.",
-                    "Small-cap growth"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "A portfolio manager with a growth style would probably diversify by: ",
-                "answers": [
-                    "attempting to build a portfolio with a very high correlation.",
-                    "placing a portion of the portfolio into high-yield bonds.",
-                    "devoting a portion of the portfolio to securities with a negative correlation.",
-                    "concentrating in stocks in one or two industries."
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Under what circumstances will a dilution of equity occur?  ",
-                "answers": [
-                    "Stock dividend.",
-                    "Conversion of convertible bonds into common stocks.",
-                    "Issue of mortgage bonds to replace debentures.",
-                    "Stock split."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Among the effects of a country devaluating its currency is that there will probably be: <br><br>I. a credit to that nation's trade account balance. <br>II. a debit to that nation's trade account balance. <br>III. an increase in that nation's exports. <br>IV. an increase in that nation's imports.",
-                "answers": [
-                    "II and IV",
-                    "I and III",
-                    "I and IV",
-                    "II and III"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following is NOT a leading economic indicator? ",
-                "answers": [
-                    "Money supply",
-                    "Orders for durable goods.",
-                    "New housing permits.",
-                    "Duration of unemployment."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": " When reading the prospectus for a fund, you notice that it states that the fund may make portfolio purchases on margin, take short positions, and use arbitrage techniques. This is most likely what type of fund? ",
-                "answers": [
-                    " Exchange traded.",
-                    " Closed end.",
-                    " Index.",
-                    " Hedge. "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "Margin trading and selling short are techniques commonly found in hedge funds, rather than in open-end or closed-end management funds or ETFs",
-                "reference": "Reference: 10.1 in the License Exam Manual"
-            },
-            {
-                "question": " Final approval of the annual operating budget for the United States is given by the ",
-                "answers": [
-                    "President.",
-                    "Congress.",
-                    "Cabinet.",
-                    " Conference of Governors."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "An analyst attempting to determine the extent to which financial leverage is being employed by a company would examine the company’s",
-                "answers": [
-                    " book value per share",
-                    "working capital ",
-                    " acid-test ratio",
-                    "  debt-to-equity ratio "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " The research department of an investment advisory firm forecasts that the current business cycle should reach its peak within the next 2 months. Under such circumstances, which of the following portfolio adjustments would be most suitable for the firm's customers who actively invest in common stocks?",
-                "answers": [
-                    "Cyclical stocks",
-                    "Corporate bonds",
-                    "Aggressive growth stocks. ",
-                    "Defensive stocks "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " If the value of the U.S. dollar increases against other currencies, which of the following are TRUE? <br><br>I. U.S. exports are more competitive in foreign countries. <br>II. U.S. exports are less competitive in foreign countries. <br>III. Foreign imports into the U.S. are more competitive in U.S. markets. <br>IV. Foreign imports into the US are less competitive in U.S. markets.",
-                "answers": [
-                    " II and IV",
-                    " II and III.",
-                    " I and III",
-                    " I and IV.  "
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "What is the balance sheet equation",
-                "answers": [
-                    "Assets = liabilities − shareholders' equity",
-                    "Assets = net worth.",
-                    "Assets = shareholders' equity − liabilities.",
-                    "Assets = liabilities + shareholders' equity."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " Over the past five years, an investor's portfolio has shown returns of 6%, 4%, 11%, 10%, and 4%. Which of the following statements is correct? <br><br>I. The mean return is 7% <br>II. The median return is 6% <br>III. The mode is 4% <br>IV. The range is 7%",
-                "answers": [
-                    " III and IV ",
-                    " I, II, and III ",
-                    " I and II ",
-                    " I, II, III, and IV "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following is a risk common to all fixed income securities? ",
-                "answers": [
-                    " Opportunity cost ",
-                    " Liquidity risk ",
-                    " Interest rate risk ",
-                    " Market risk   "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " Which of the following statements about diversification are TRUE? <br><br>I. Diversification involves investing a portfolio in one, or very few, classes of investments. <br>II. Diversification is a way to reduce unsystematic risk in a portfolio. <br>III. Diversification is a defensive investment strategy",
-                "answers": [
-                    " I and II ",
-                    " II and III ",
-                    " I and III ",
-                    " I, II and III.    "
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "NA",
-                "reference": ""
-            }
+          {
+            "question": "The common stock of the YXZ Pharmaceutical Corporation, listed on the NYSE, is likely to be subject to: <br><br>I. business risk. <br>II. credit risk. <br>III. liquidity risk. <br>IV. regulatory risk.",
+            "answers": [
+              "II and III",
+              "I and IV",
+              "I and II",
+              "III and IV"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "The uncertainty resulting from the possibility that the value of an investment will be affected by a change in the law is known as: ",
+            "answers": [
+              "credit risk",
+              "buniness risk",
+              "legislative risk",
+              "market risk"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "You recently took a trip to Warsaw, Poland and when you received your credit card statement, you noticed that your vodka purchase for 100 Polish Zlotys resulted in a $30 charge on your statement. Based on this exchange rate, each dollar was worth approximately ",
+            "answers": [
+              "3 zlotys",
+              "$3.33",
+              "3.33 zlotys",
+              "$.33"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "credit risk is commonly referred to as",
+            "answers": [
+              "interest rate risk",
+              "unsystematic risk",
+              "business risk",
+              "default risk"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An investment of $1,000 made 10 years ago is now worth $4,000. Using the Rule of 72, the approximate compounded annual rate of return is ",
+            "answers": [
+              "25%",
+              "14.4%",
+              "40%",
+              "7.2%"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following must be considered in evaluating the suitability of a DPP investment for a customer? <br><br>I. Risk tolerance. <br>II. Other holdings. <br>III. Financial situation. <br>IV. Age.",
+            "answers": [
+              "I and II",
+              "I, II, III and IV.",
+              "I and IV",
+              "II and III"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "As current interest rates go up, the market price of existing corporate bonds bearing lower interest rates will: ",
+            "answers": [
+              "decrease",
+              "stay the same",
+              "change in unpredictable ",
+              "increase"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "A client approaches the IAR handling the advisory account with a request to find a preferred stock that will offer a 6% income return. The IAR suggests a stock paying a $.28 quarterly dividend. That stock will meet the income objective if it has a current market price of  ",
+            "answers": [
+              "11.91",
+              "4.67",
+              "18.67",
+              "6.72"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which two are most associated with a Treasury bond? <br><br>I. Credit risk. <br>II. Liquidity risk. <br>III. Reinvestment risk. <br>IV. Interest rate risk. ",
+            "answers": [
+              "I and II",
+              "I and IV",
+              "II and III",
+              "III and IV"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following industries’ performance is least likely to track the business cycle? ",
+            "answers": [
+              "Financials",
+              "Pharmaceuticals",
+              "Consumer durables",
+              "Automobiles"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "If an analyst wished to determine the degree to which leverage was being employed by a subject company, she would most likely examine that issuer's: ",
+            "answers": [
+              "sales to debit ratio",
+              "debt to equity ratio",
+              "price to book ratio",
+              "current ratio"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An individual owns assets worth $500,000 and has debts of $300,000. What is the individual's net worth? ",
+            "answers": [
+              "800,000.00",
+              "500,000.00",
+              "200,000.00",
+              "300,000.00"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following securities are the most interest-rate sensitive? <br><br>I. Utility stocks. <br>II. Growth stocks. <br>III. Preferred stocks. <br>IV. Common stocks. ",
+            "answers": [
+              "I amd II",
+              "I and III",
+              "II and IV",
+              "III and IV"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "All of the following actions will increase the deficit in the U.S. balance of payments EXCEPT: ",
+            "answers": [
+              "purchase by foreigners of U.S. securities.",
+              "U.S. foreign aid.",
+              "Americans buying Japanese cars.",
+              "investments by U.S. firms abroad"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "A customer purchased 100 shares of SNP at $38. At the time of purchase, the PE ratio was 12. Approximately what are the earnings per share of SNP? ",
+            "answers": [
+              "3.80",
+              "12.00",
+              "3.20",
+              "1.20"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "The prospectus for a fund states that the minimum initial investment is $500,000. This is most likely what type of fund? ",
+            "answers": [
+              "Specialized",
+              "Hedge",
+              "Balanced.",
+              "Small-cap growth"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "A portfolio manager with a growth style would probably diversify by: ",
+            "answers": [
+              "attempting to build a portfolio with a very high correlation.",
+              "placing a portion of the portfolio into high-yield bonds.",
+              "devoting a portion of the portfolio to securities with a negative correlation.",
+              "concentrating in stocks in one or two industries."
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Under what circumstances will a dilution of equity occur?  ",
+            "answers": [
+              "Stock dividend.",
+              "Conversion of convertible bonds into common stocks.",
+              "Issue of mortgage bonds to replace debentures.",
+              "Stock split."
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Among the effects of a country devaluating its currency is that there will probably be: <br><br>I. a credit to that nation's trade account balance. <br>II. a debit to that nation's trade account balance. <br>III. an increase in that nation's exports. <br>IV. an increase in that nation's imports.",
+            "answers": [
+              "II and IV",
+              "I and III",
+              "I and IV",
+              "II and III"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following is NOT a leading economic indicator? ",
+            "answers": [
+              "Money supply",
+              "Orders for durable goods.",
+              "New housing permits.",
+              "Duration of unemployment."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": " When reading the prospectus for a fund, you notice that it states that the fund may make portfolio purchases on margin, take short positions, and use arbitrage techniques. This is most likely what type of fund? ",
+            "answers": [
+              " Exchange traded.",
+              " Closed end.",
+              " Index.",
+              " Hedge. "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "Margin trading and selling short are techniques commonly found in hedge funds, rather than in open-end or closed-end management funds or ETFs",
+            "reference": "Reference: 10.1 in the License Exam Manual"
+          },
+          {
+            "question": " Final approval of the annual operating budget for the United States is given by the ",
+            "answers": [
+              "President.",
+              "Congress.",
+              "Cabinet.",
+              " Conference of Governors."
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An analyst attempting to determine the extent to which financial leverage is being employed by a company would examine the company’s",
+            "answers": [
+              "book value per share",
+              "working capital ",
+              "acid-test ratio",
+              "debt-to-equity ratio "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " The research department of an investment advisory firm forecasts that the current business cycle should reach its peak within the next 2 months. Under such circumstances, which of the following portfolio adjustments would be most suitable for the firm's customers who actively invest in common stocks?",
+            "answers": [
+              "Cyclical stocks",
+              "Corporate bonds",
+              "Aggressive growth stocks. ",
+              "Defensive stocks "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " If the value of the U.S. dollar increases against other currencies, which of the following are TRUE? <br><br>I. U.S. exports are more competitive in foreign countries. <br>II. U.S. exports are less competitive in foreign countries. <br>III. Foreign imports into the U.S. are more competitive in U.S. markets. <br>IV. Foreign imports into the US are less competitive in U.S. markets.",
+            "answers": [
+              "II and IV",
+              "II and III.",
+              "I and III",
+              "I and IV.  "
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "What is the balance sheet equation",
+            "answers": [
+              "Assets = liabilities − shareholders' equity",
+              "Assets = net worth.",
+              "Assets = shareholders' equity − liabilities.",
+              "Assets = liabilities + shareholders' equity."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " Over the past five years, an investor's portfolio has shown returns of 6%, 4%, 11%, 10%, and 4%. Which of the following statements is correct? <br><br>I. The mean return is 7% <br>II. The median return is 6% <br>III. The mode is 4% <br>IV. The range is 7%",
+            "answers": [
+              "III and IV ",
+              "I, II, and III ",
+              "I and II ",
+              "I, II, III, and IV "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following is a risk common to all fixed income securities? ",
+            "answers": [
+              "Opportunity cost ",
+              "Liquidity risk ",
+              "Interest rate risk ",
+              "Market risk   "
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following statements about diversification are TRUE? <br><br>I. Diversification involves investing a portfolio in one, or very few, classes of investments. <br>II. Diversification is a way to reduce unsystematic risk in a portfolio. <br>III. Diversification is a defensive investment strategy",
+            "answers": [
+              "I and II ",
+              "II and III ",
+              "I and III ",
+              "I, II and III."
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+              "question": "An analyst has been charting previous 9 year's returns for a stock and displays the following results: 5%, 5%, -3%, 10%, 12%, 5%, 17% and 22%.  If you were asked tode mode of these returns, you would reply:",
+              "answers": [
+                "5%",
+                "10%",
+                "8%",
+                "9%"
+              ],
+              "correctAnswerIndex": 0,
+              "explanation": "NA",
+              "reference": ""
+          },
+          {
+            "question": "Which of the following statements is NOT true",
+            "answers": [
+              "Members of a limited liability company (LLC) are not personally liable for debts that arise under the LLC.",
+              "Limited partners actively manage the investments in the partnership but are not liable for funds in excess of the amounts they have invested",
+              "An S corporation is a form of incorporation that is taxed as a partnership but in all other respects operates like a regular corporation",
+              "A sole propiertorship account is for tax and legal purposes indistinguishable from the business owner"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "If the U.S. dollar is devalued relative to other world currencies, which of the following will occur with respect to the prices of goods?<br><br>I. U.S. exports will be more price-competitive overseas<br>II. U.S. Exports will be less price-competitive overseas<br>III. Foreign imported goods will be more price-competitive with ours<br>IV. Foreign imported goods will be less price-competitive with ours",
+            "answers": [
+              "I and III",
+              "II and IV",
+              "II and III",
+              "I and IV"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Which of these is a definition of inflation",
+            "answers": [
+              "an increase in purchasing power",
+              "a decrease in the value of the monetary unit",
+              "an increase in the value of the dollar",
+              "a decrease in consumer demand"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following statements about the Consumer Price Index (CPI) is NOT true",
+            "answers": [
+              "The CPI measures the rate of increase or decrease in a broad range of prices, such as food, housing, medical care, and clothing.",
+              "The CPI measures the increase or decrease in the level of consumer prices with respect to the level of wholesale prices on which consumer prices depend.",
+              "The CPI measures the increase in the general price level of a basket of consumer goods.",
+              "The CPI is computed monthly"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          }
+
         ]
     },
     {
