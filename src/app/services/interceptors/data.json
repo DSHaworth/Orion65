@@ -1778,374 +1778,373 @@
             "correctAnswerIndex": 2,
             "explanation": "NA",
             "reference": ""
-          },
-
+          }
         ]
     },
     {
         "name": "Unit 6",
         "id": 6,
         "questions": [
-            {
-                "question": "What is the term used to describe a person on the floor of a stock  exchange who stands ready to buy or sell shares of specified stocks",
-                "answers": [
-                    "Floor broker",
-                    "Market maker",
-                    "Arbitrageur",
-                    "Specialist"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "An order to sell securities where immediate execution is more important than price is called ",
-                "answers": [
-                    " a market order",
-                    " a discretionary order ",
-                    " a limit order",
-                    " an unsolicited order"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "In order to be considered a block trade, an order for common stock must be for at least ",
-                "answers": [
-                    "1,000 shares",
-                    "10,000 shares",
-                    "100 shares",
-                    "100,000 shares"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following statements about brokers and dealers are TRUE?  <br><br>I. A broker acts as an agent in a trade; it brings buyers and sellers together. <br>II. A dealer acts as a principal in a trade. <br>III. A securities firm may act as both a broker and as a dealer.",
-                "answers": [
-                    "II and III",
-                    "I and III",
-                    "I and II",
-                    "I, II and III"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "An exchange specialist is a(n)",
-                "answers": [
-                    " trader who makes a market in OTC stocks and ADRs",
-                    " electronic brokerage concern that executes trades online and through specialized trading order executing services",
-                    "dealer on the New York Stock Exchange who executes orders for  other brokers and who also acts as a market maker with the responsibility of keeping an orderly market in designated stocks",
-                    " floor broker on the New York Stock Exchange who only executes  trades for other brokers in return for commissions"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "An order to immediately buy or sell a security at the best available price is  known as a: ",
-                "answers": [
-                    "short order",
-                    "limit order",
-                    "market order",
-                    "stop order"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "If an investor buys a utility stock with a stable 5% dividend, and after a year the investor's total return in the stock is 10%, the most likely reason for this is the",
-                "answers": [
-                    "stock price declined",
-                    "the stock appreciated by 5%.",
-                    " investor reinvested the quarterly dividends",
-                    "company doubled its dividend payment"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "When analyzing a specific common stock, the expected return is:",
-                "answers": [
-                    "the sum of a probability distribution of possible returns",
-                    "the extent to which the net present value exceeds the internal rate of return",
-                    "computed using the Sharpe ratio",
-                    "the projected annual dividend divided by the current market price"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": " An investor is reviewing his portfolio. To compute the real rate of return on an investment, it would be necessary to know I. the gain (or loss) recognized on the asset II. the income received from holding the asset III. the rate of inflation IV. the tax bracket of the investor",
-                "answers": [
-                    "II and II",
-                    "I, II and III",
-                    "I, II and IV",
-                    "I and IV"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "If the return on Treasury bills is 3% and the equity risk premium is 4%, the expected equity returns should be: ",
-                "answers": [
-                    "1%",
-                    "7%",
-                    "12%",
-                    "4%"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": " A customer who is changing jobs has how many days to roll over a lump sum from a qualified pension plan into an IRA? ",
-                "answers": [
-                    "60 days",
-                    "90 days",
-                    "15 days",
-                    "30 days"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following phrases best describes a prudent investor? ",
-                "answers": [
-                    "A person in a fiduciary capacity who invests in a prudent manner.",
-                    "A trustee who invests with reasonable care, skill, and caution",
-                    "An investment adviser representative handling a discretionary account",
-                    "The custodian for a minor under the Uniform Transfers to Minors Act"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "If an employer installs a Keogh plan, it must include all full-time employees:",
-                "answers": [
-                    "with at least three years of service, regardless of age",
-                    "age 21, with at least one year of service.",
-                    "with at least one year of service",
-                    "age 25 or older"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "If an individual makes a withdrawal from her IRA at age 52, she pays no penalty tax if she",
-                "answers": [
-                    "has retired",
-                    "had no earned income that year",
-                    "is disabled",
-                    "used the funds for her nephew's college tuition. "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": " In a qualified plan, if the employer makes all of the contributions, the employee's cost basis is",
-                "answers": [
-                    "the value of the contributions",
-                    "one-half of the contributions made",
-                    "the increase in value only",
-                    "zero "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": " If Janet established a Coverdell Education Savings Account for her grandson, in each successive year, she may contribute",
-                "answers": [
-                    "$2,000.00",
-                    "$3,000.00",
-                    "$1,000.00",
-                    "$4,000.00"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following statements is TRUE regarding Section 529 Plans? <br><br>I. Funds withdrawn for qualified education expenses are always free of federal income tax. <br>II. Funds withdrawn for qualified education expenses are always free of state income tax. <br>III. The maximum contribution limits are determined on a federal level. <br>IV. The maximum contribution limits are determined on a state level. ",
-                "answers": [
-                    " I and III.",
-                    " II and III",
-                    " I and IV",
-                    " II and IV"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Company-sponsored 401(k) retirement programs have which of the following? <br><br>I. Voluntary employee contributions. <br>II. Voluntary employer contributions. <br>III. Mandatory employee contributions. <br>IV. Mandatory employer contributions. ",
-                "answers": [
-                    "II and III",
-                    "I and II",
-                    "III and IV",
-                    "I and IV"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following statements are true about both an individual Roth  IRA and a Roth 401(k) plan? <br><br>I. contributions are made with after-tax dollars. <br>II. one must have AGI below a certain level in order to maintain either Roth. <br>III. if all the conditions are met, withdrawals are tax-free. <br>IV. there are no RMDs at age 70 1⁄2",
-                "answers": [
-                    "II and IV",
-                    "III and IV",
-                    "I and III.",
-                    "I and II"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "If a retiree is paid an annual amount equal to 30% of the average of his last three years' salary, which of the following retirement plans offers this type of payment? ",
-                "answers": [
-                    "Profit-sharing",
-                    "Deferred compensation",
-                    "Defined benefit pension",
-                    "Money purchase pension"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "A young customer who is a novice investor wishes to begin an investment program. He is eligible for his employer's 401(k) plan, to which the employer makes matching contributions, but he does not participate in the plan. Your advice to the customer should be to begin: ",
-                "answers": [
-                    "by making regular contributions to a growth mutual fund.",
-                    "by making regular contributions to an income mutual fund.",
-                    "by taking positions in individual stocks.",
-                    "making payroll deduction contributions to the employer's 401(k) plan at least to the employer's matching level."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "On retirement, if your customer who is a corporate executive will receive retirement income equaling a percentage of the average of his last 5 years of compensation, this is which type of plan?  ",
-                "answers": [
-                    "Keogh",
-                    "TSA",
-                    "Defined benefit",
-                    "Defined contribution"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "If you knew a given stock had a 40% chance of earning a 10% return, a 40% chance of earning 20%, and a 20% chance of earning -10%, the stock would have a(n): ",
-                "answers": [
-                    "annualized return of 10%.",
-                    "total return of 10%",
-                    "expected rate of return of 10%.",
-                    "real rate of return of 10%."
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "In order to compute the real rate of return for a security, it would be necessary to know all of the following EXCEPT ",
-                "answers": [
-                    "The CPI",
-                    "the annual dividend.",
-                    "the purchase price",
-                    "the beta of the security."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "An individual works for an accounting firm that does not have a retirement fund. She is paid $18,000 per year. During her spare time, she is a commercial artist and earned $16,000 doing this work last year. What is the basis for her contribution under a Keogh plan (HR-10)?",
-                "answers": [
-                    "$16,000.00",
-                    "$18,000.00",
-                    "$34,000.00",
-                    "$0.00"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "A lump-sum distribution from a 401(k) before retirement may be <br><br>I. eligible to be rolled over into a traditional IRA. <br>II. subject to ordinary income tax and penalty. <br>III. eligible to be transferred to a Roth IRA. <br>IV. tax free if the recipient is disabled.",
-                "answers": [
-                    "I and III",
-                    "II and III",
-                    "II and IV",
-                    "I, II and III"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "The execution of a market order to sell occurs at the:",
-                "answers": [
-                    "highest offer.",
-                    "highest bid.",
-                    "lowest bid.",
-                    "lowest offer."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Thomas, age 49, owns his own business and pays himself a salary of $80,000 per year. He employs his wife Grace, age 51 as receptionist and pays her $45,000 per year. What is the maximum deductible contribution that they could have made to their 2013 traditional IRA programs? ",
-                "answers": [
-                    "They can contribute a total of $5,500 only because they both work at the same business.",
-                    "They cannot make deductible contributions because their joint incomes are too high",
-                    "They can contribute $5,500 to his IRA and $6,500 to hers.",
-                    "They can contribute $5,500 to each of their individual IRAs."
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Stock prices in the over-the-counter market are determined by:",
-                "answers": [
-                    "negotiation.",
-                    "the five percent markup policy.",
-                    "an auction.",
-                    "a competitive bid."
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following takes place on the New York Stock Exchange?",
-                "answers": [
-                    "Buying and selling stocks on the secondary market.",
-                    "Buying and selling stocks on the over-the-counter (OTC) market.",
-                    "Buying and selling of Nasdaq stocks.",
-                    "Buying and selling stocks on the primary market."
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "",
-                "reference": ""
-            }
+          {
+            "question": "What is the term used to describe a person on the floor of a stock  exchange who stands ready to buy or sell shares of specified stocks",
+            "answers": [
+              "Floor broker",
+              "Market maker",
+              "Arbitrageur",
+              "Specialist"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An order to sell securities where immediate execution is more important than price is called ",
+            "answers": [
+              "a market order",
+              "a discretionary order ",
+              "a limit order",
+              "an unsolicited order"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "In order to be considered a block trade, an order for common stock must be for at least ",
+            "answers": [
+              "1,000 shares",
+              "10,000 shares",
+              "100 shares",
+              "100,000 shares"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following statements about brokers and dealers are TRUE?  <br><br>I. A broker acts as an agent in a trade; it brings buyers and sellers together. <br>II. A dealer acts as a principal in a trade. <br>III. A securities firm may act as both a broker and as a dealer.",
+            "answers": [
+              "II and III",
+              "I and III",
+              "I and II",
+              "I, II and III"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An exchange specialist is a(n)",
+            "answers": [
+              "trader who makes a market in OTC stocks and ADRs",
+              "electronic brokerage concern that executes trades online and through specialized trading order executing services",
+              "dealer on the New York Stock Exchange who executes orders for  other brokers and who also acts as a market maker with the responsibility of keeping an orderly market in designated stocks",
+              "floor broker on the New York Stock Exchange who only executes  trades for other brokers in return for commissions"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An order to immediately buy or sell a security at the best available price is  known as a: ",
+            "answers": [
+              "short order",
+              "limit order",
+              "market order",
+              "stop order"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "If an investor buys a utility stock with a stable 5% dividend, and after a year the investor's total return in the stock is 10%, the most likely reason for this is the",
+            "answers": [
+              "stock price declined",
+              "the stock appreciated by 5%.",
+              "investor reinvested the quarterly dividends",
+              "company doubled its dividend payment"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "When analyzing a specific common stock, the expected return is:",
+            "answers": [
+              "the sum of a probability distribution of possible returns",
+              "the extent to which the net present value exceeds the internal rate of return",
+              "computed using the Sharpe ratio",
+              "the projected annual dividend divided by the current market price"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An investor is reviewing his portfolio. To compute the real rate of return on an investment, it would be necessary to know<br><br>I. the gain (or loss) recognized on the asset<br>II. the income received from holding the asset<br>III. the rate of inflation<br>IV. the tax bracket of the investor",
+            "answers": [
+              "II and II",
+              "I, II and III",
+              "I, II and IV",
+              "I and IV"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "If the return on Treasury bills is 3% and the equity risk premium is 4%, the expected equity returns should be: ",
+            "answers": [
+              "1%",
+              "7%",
+              "12%",
+              "4%"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": " A customer who is changing jobs has how many days to roll over a lump sum from a qualified pension plan into an IRA? ",
+            "answers": [
+              "60 days",
+              "90 days",
+              "15 days",
+              "30 days"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following phrases best describes a prudent investor? ",
+            "answers": [
+              "A person in a fiduciary capacity who invests in a prudent manner.",
+              "A trustee who invests with reasonable care, skill, and caution",
+              "An investment adviser representative handling a discretionary account",
+              "The custodian for a minor under the Uniform Transfers to Minors Act"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "If an employer installs a Keogh plan, it must include all full-time employees:",
+            "answers": [
+              "with at least three years of service, regardless of age",
+              "age 21, with at least one year of service.",
+              "with at least one year of service",
+              "age 25 or older"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "If an individual makes a withdrawal from her IRA at age 52, she pays no penalty tax if she",
+            "answers": [
+              "has retired",
+              "had no earned income that year",
+              "is disabled",
+              "used the funds for her nephew's college tuition. "
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": " In a qualified plan, if the employer makes all of the contributions, the employee's cost basis is",
+            "answers": [
+              "the value of the contributions",
+              "one-half of the contributions made",
+              "the increase in value only",
+              "zero "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": " If Janet established a Coverdell Education Savings Account for her grandson, in each successive year, she may contribute",
+            "answers": [
+              "$2,000.00",
+              "$3,000.00",
+              "$1,000.00",
+              "$4,000.00"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following statements is TRUE regarding Section 529 Plans? <br><br>I. Funds withdrawn for qualified education expenses are always free of federal income tax. <br>II. Funds withdrawn for qualified education expenses are always free of state income tax. <br>III. The maximum contribution limits are determined on a federal level. <br>IV. The maximum contribution limits are determined on a state level. ",
+            "answers": [
+              "I and III.",
+              "II and III",
+              "I and IV",
+              "II and IV"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Company-sponsored 401(k) retirement programs have which of the following? <br><br>I. Voluntary employee contributions. <br>II. Voluntary employer contributions. <br>III. Mandatory employee contributions. <br>IV. Mandatory employer contributions. ",
+            "answers": [
+              "II and III",
+              "I and II",
+              "III and IV",
+              "I and IV"
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following statements are true about both an individual Roth  IRA and a Roth 401(k) plan? <br><br>I. contributions are made with after-tax dollars. <br>II. one must have AGI below a certain level in order to maintain either Roth. <br>III. if all the conditions are met, withdrawals are tax-free. <br>IV. there are no RMDs at age 70 1⁄2",
+            "answers": [
+              "II and IV",
+              "III and IV",
+              "I and III.",
+              "I and II"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "If a retiree is paid an annual amount equal to 30% of the average of his last three years' salary, which of the following retirement plans offers this type of payment? ",
+            "answers": [
+              "Profit-sharing",
+              "Deferred compensation",
+              "Defined benefit pension",
+              "Money purchase pension"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "A young customer who is a novice investor wishes to begin an investment program. He is eligible for his employer's 401(k) plan, to which the employer makes matching contributions, but he does not participate in the plan. Your advice to the customer should be to begin: ",
+            "answers": [
+              "by making regular contributions to a growth mutual fund.",
+              "by making regular contributions to an income mutual fund.",
+              "by taking positions in individual stocks.",
+              "making payroll deduction contributions to the employer's 401(k) plan at least to the employer's matching level."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "On retirement, if your customer who is a corporate executive will receive retirement income equaling a percentage of the average of his last 5 years of compensation, this is which type of plan?  ",
+            "answers": [
+              "Keogh",
+              "TSA",
+              "Defined benefit",
+              "Defined contribution"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "If you knew a given stock had a 40% chance of earning a 10% return, a 40% chance of earning 20%, and a 20% chance of earning -10%, the stock would have a(n): ",
+            "answers": [
+              "annualized return of 10%.",
+              "total return of 10%",
+              "expected rate of return of 10%.",
+              "real rate of return of 10%."
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "In order to compute the real rate of return for a security, it would be necessary to know all of the following EXCEPT ",
+            "answers": [
+              "The CPI",
+              "the annual dividend.",
+              "the purchase price",
+              "the beta of the security."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "An individual works for an accounting firm that does not have a retirement fund. She is paid $18,000 per year. During her spare time, she is a commercial artist and earned $16,000 doing this work last year. What is the basis for her contribution under a Keogh plan (HR-10)?",
+            "answers": [
+              "$16,000.00",
+              "$18,000.00",
+              "$34,000.00",
+              "$0.00"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "A lump-sum distribution from a 401(k) before retirement may be <br><br>I. eligible to be rolled over into a traditional IRA. <br>II. subject to ordinary income tax and penalty. <br>III. eligible to be transferred to a Roth IRA. <br>IV. tax free if the recipient is disabled.",
+            "answers": [
+              "I and III",
+              "II and III",
+              "II and IV",
+              "I, II and III"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "The execution of a market order to sell occurs at the:",
+            "answers": [
+              "highest offer.",
+              "highest bid.",
+              "lowest bid.",
+              "lowest offer."
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Thomas, age 49, owns his own business and pays himself a salary of $80,000 per year. He employs his wife Grace, age 51 as receptionist and pays her $45,000 per year. What is the maximum deductible contribution that they could have made to their 2013 traditional IRA programs? ",
+            "answers": [
+              "They can contribute a total of $5,500 only because they both work at the same business.",
+              "They cannot make deductible contributions because their joint incomes are too high",
+              "They can contribute $5,500 to his IRA and $6,500 to hers.",
+              "They can contribute $5,500 to each of their individual IRAs."
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Stock prices in the over-the-counter market are determined by:",
+            "answers": [
+              "negotiation.",
+              "the five percent markup policy.",
+              "an auction.",
+              "a competitive bid."
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following takes place on the New York Stock Exchange?",
+            "answers": [
+              "Buying and selling stocks on the secondary market.",
+              "Buying and selling stocks on the over-the-counter (OTC) market.",
+              "Buying and selling of Nasdaq stocks.",
+              "Buying and selling stocks on the primary market."
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "",
+            "reference": ""
+          }
         ]
     }
 ]
