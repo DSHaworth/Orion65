@@ -1,10 +1,18 @@
-<mat-card-title style="line-height: 1.4em; margin-bottom: 1em;">
-  {{index + 1}}
+<mat-card-title style="line-height: 1.4em; margin-bottom: 1em;display: flex; flex-direction: row;">
+  <div>{{index + 1}})&nbsp;</div>
   <div [innerHtml]="question.question | safe: 'html'"></div>
 </mat-card-title>
 
-<mat-card-content >      
-  
+<mat-card-content>
+<!--  
+  <mat-list role="list">
+    <mat-list-item role="listitem" *ngFor="let answer of question.answers; let i = index">
+      <mat-radio-button color="primary" [checked]="i == defaultSelected" [value]="i" [(ngModel)]="selectedOption">
+        {{answer.answer}}
+      </mat-radio-button>
+    </mat-list-item>
+  </mat-list>  
+--> 
   <mat-selection-list 
     [multiple]="false" 
     [(ngModel)]="selectedOption">
@@ -13,11 +21,11 @@
       [class]="classname"
       *ngFor="let answer of question.answers; let i = index"      
       [value]="i">
-      {{i + 1}}. {{ answer.answer }}
+      {{ answer.answer }}
     </mat-list-option>
 
   </mat-selection-list>            
-  
+
 </mat-card-content>
 <mat-card-actions style="display: flex; flex-direction: row; justify-content: flex-end;">        
   <button mat-raised-button color="primary" 

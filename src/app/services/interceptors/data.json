@@ -1383,390 +1383,403 @@
         "name": "Unit 5",
         "id": 5,
         "questions": [
-            {
-                "question": "Which of the following portfolio management styles would most likely incur the highest transaction costs? ",
-                "answers": [
-                    " Tactical asset allocation. ",
-                    " Strategic asset allocation. ",
-                    " Indexing. ",
-                    " Buy and hold. "
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "The Jones family has scheduled an initial visit with a financial planner. Mr. Jones has an annual salary of $70,000 and this is their first attempt at financial planning. Which of the following should be the first step taken by the financial planner?",
-                "answers": [
-                    "Establish an emergency fund.",
-                    "Set goals and dates for reaching them.",
-                    "Determine a reasonable fee for designing the plan. ",
-                    "Pay off credit card debt. "
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "Asset allocation is an important element of the portfolio management process because <br><br>I. different asset classes have different risk and return characteristics  <br>II. research indicates that asset allocation is much more important than security selection <br>III.  portfolios that are focused on different asset classes will have very different returns over time  <br>IV. investors may prefer returns in different forms (e.g., income or capital appreciation) ",
-                "answers": [
-                    "I, II and III only",
-                    "I, II and IV only",
-                    "I, II, III, and IV",
-                    "I only"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "The Capital Asset Pricing Model (CAPM) is most commonly used to determine an investor’s: ",
-                "answers": [
-                    "expected return.",
-                    "holding period return",
-                    "required return.",
-                    "time weighted return. "
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "An investor purchases 100 shares of a stock at $100 per share on January 1st. On July 1st, the shares are sold for $120 per share. The tax consequences are:",
-                "answers": [
-                    "$2,000 long-term gain.",
-                    "$2,000 short-term gain.",
-                    "$2,000 short-term loss.",
-                    "$2,000 long-term loss. "
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following statements about C corporations are TRUE? <br><br>I. A C corporation pays income tax on its earnings at the corporate level. <br>II. The income of C corporations is subject to double taxation. <br>III. Dividends paid by a C corporation are not subject to income tax at the shareholder level. ",
-                "answers": [
-                    "II and III.",
-                    "I and II.",
-                    "I, II and III.",
-                    "I and III."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "There are several popular investment styles and, in many cases, portfolio managers use a blended approach to security selection. If a portfolio manager adhered to a pure value style, he would put most of his focus on: ",
-                "answers": [
-                    "lagging indicators.",
-                    "using technical analysis.",
-                    "projecting future earnings based on past earnings.",
-                    "the company’s financial statements."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "An investor diversifying a corporate bond portfolio does NOT consider:",
-                "answers": [
-                    "quality.",
-                    "issuer.",
-                    "maturity.",
-                    "domicile of the investor."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "An investor purchases 500 shares of stock on January 10th at $50 per share and sells it on August 4th of the following year for $40 per share. As a result, the investor has realized a: ",
-                "answers": [
-                    "short-term capital gain.",
-                    "long-term capital loss.",
-                    "long-term capital gain.",
-                    "short-term capital loss."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "In a trust account, the person who makes the account management decisions is the:",
-                "answers": [
-                    "beneficiary.",
-                    "investment adviser representative.",
-                    "non-trustee custodian.",
-                    "trustee."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "Investors wishing to employ a passive strategy for their bond portfolios would most likely elect which of the following? ",
-                "answers": [
-                    "Barbell",
-                    "Laddering",
-                    "Buy and hold",
-                    "Bullet"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "As compared to value investors, growth investors tend to: ",
-                "answers": [
-                    "be very price-conscious when purchasing stocks.",
-                    "look for companies whose sales, earnings, or market share are increasing at an above- average rate.",
-                    "take more of a long-term approach to their investments.",
-                    "look for companies that are undervalued or overlooked by other investors."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "Your daughter is getting married and, to celebrate, you give her fiancé a beautiful watch that you purchased for $5,575. What are the tax consequences of this gift? ",
-                "answers": [
-                    "The fiancé would have to report this as ordinary income.",
-                    "Anything over the FINRA gift limit of $100 per person per year would be considered taxable.",
-                    "No tax",
-                    "Because they are not yet married, the fiancé is not actually a family member, so a gift tax would be levied."
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "A popular funding technique that involves investing the same amount at regular intervals is known as dollar cost averaging. Participating in this funding approach tends to lessen which risk?",
-                "answers": [
-                    "Credit.",
-                    "Inflation.",
-                    "Timing.",
-                    "Market."
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "In the field of portfolio management, there are a number of different management styles. One of those styles involves committing additional capital to the market when others are reducing their exposure, or eliminating positions while others are increasing theirs. This style is generally referred to as:",
-                "answers": [
-                    "contrarian.",
-                    "active.",
-                    "value.",
-                    "growth."
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "The concept of creating a model portfolio, through asset allocation principles, that both increases return and reduces risk is known as: ",
-                "answers": [
-                    "portfolio optimization.",
-                    "corrective adaptation.",
-                    "risk reduction fundamentals.",
-                    "rebalancing."
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "One respect in which an LLC differs from an S corporation is that",
-                "answers": [
-                    "not only income, but losses, if generated, pass through to investors in an LLC",
-                    "an LLC can be formed with as little as a single investor",
-                    "there is no statutory limit on the number of investors in an LLC",
-                    "there is more favorable tax treatment afforded to members of an LLC"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "An investment adviser is doing some research on a company and notices that the current market price is $21 per share. The most recently reported EPS is $3 and the company is paying a 19 cent quarterly dividend. On the balance sheet, the company is carrying a significant amount of cash. This company would probably be attractive to this adviser if his investment style was:",
-                "answers": [
-                    "micro-cap.",
-                    "agrowth.",
-                    "contrarian.",
-                    "value."
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "In a trust account, the person who makes the account management decisions is the",
-                "answers": [
-                    "beneficiary",
-                    "non-trustee custodian",
-                    " investment adviser representative. ",
-                    " trustee"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "A limited liability company is ",
-                "answers": [
-                    "an insurance company",
-                    "traded on major exchanges",
-                    "a company with tax consequences similar to a partnership ",
-                    "a limited partnership "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " A professional tennis player comes to you seeking advice on setting up a trust. She is interested in giving to charity and also wants discretion as to when income is distributed to the beneficiaries, her parents. Which trust do you advise she use? ",
-                "answers": [
-                    "Charitable lead trust",
-                    " Simple trust",
-                    "Charitable remainder trust",
-                    " Complex trust"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " Assets that might be found on a family balance sheet include: <br><br>I. car loan. <br>II. gold watch. <br>III. Keogh plan. <br>IV. salary",
-                "answers": [
-                    "I and IV",
-                    "I and II",
-                    "II and III",
-                    "III and IV "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "If a new client has $200,000 to invest and wants to retire in 15 years, which of the following client information is least necessary for an adviser to recommend a suitable investment program?",
-                "answers": [
-                    "The age of the client",
-                    "The amount of income he requires for his retirement years.",
-                    "Current income and cash flow requirements",
-                    " Tolerance toward risk"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "IAn investor can choose between four portfolios with the following expected returns and standard deviations. Expected Return Standard Deviation <br><br>I. 8% 20% <br>II. 6% 21% <br>III. 8% 21% <br>IV. 7% 22% ",
-                "answers": [
-                    "II",
-                    "III",
-                    "I",
-                    "IV"
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "As compared to value investors, growth investors tend to:",
-                "answers": [
-                    " take more of a long-term approach to their investments.",
-                    " look for companies whose sales, earnings, or market share are increasing at an above- average rate.",
-                    "look for companies that are undervalued or overlooked by other investors.",
-                    "be very price-conscious when purchasing stocks."
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " An investment strategy where a higher price is paid for a stock based on expected returns is:",
-                "answers": [
-                    " dollar cost averaging",
-                    " return on investment",
-                    " futures investing",
-                    "growth investing. "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " Which of the following is a characteristic of the passive investment style? ",
-                "answers": [
-                    " High portfolio turnover",
-                    "  Income rather than growth objective",
-                    " Rebalancing",
-                    "Tactical management. "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " The management style that is most similar to buy and hold is ",
-                "answers": [
-                    "strategic management.",
-                    "contrarian",
-                    "tactical management. ",
-                    " active management "
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": " Which of the following market analysts is using the efficient market theory?  ",
-                "answers": [
-                    " Before he invests in a company, an analyst visits its headquarters to  see whether management is running the company effectively",
-                    " An analyst sells stock when he sees small investors buying",
-                    "An analyst has developed a system for identifying reversals in downward trend-lines ",
-                    "  An analyst picks company names out of a hat "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "Buying stocks with high PE ratios normally reflects which of the following investment styles? ",
-                "answers": [
-                    "  Growth",
-                    " Value",
-                    "Special situations",
-                    "   Turnaround "
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "Which of the following is federally tax exempt for a corporation?  ",
-                "answers": [
-                    "Foreign corporate stock dividends",
-                    "Capital gains",
-                    "Preferred stock dividends",
-                    "Municipal bond interest "
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "NA",
-                "reference": ""
-            },
-            {
-                "question": "If a husband makes a gift of $100,000 to his wife, a U.S. citizen, how much of the gift is subject to gift taxes?  ",
-                "answers": [
-                    " $100,000.00 ",
-                    "$90,000.00 ",
-                    " $0.00",
-                    " $50,000.00 "
-                ],
-                "correctAnswerIndex": 2,
-                "explanation": "NA",
-                "reference": ""
-            }
+          {
+            "question": "Which of the following portfolio management styles would most likely incur the highest transaction costs? ",
+            "answers": [
+              "Tactical asset allocation. ",
+              "Strategic asset allocation. ",
+              "Indexing. ",
+              "Buy and hold. "
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "The Jones family has scheduled an initial visit with a financial planner. Mr. Jones has an annual salary of $70,000 and this is their first attempt at financial planning. Which of the following should be the first step taken by the financial planner?",
+            "answers": [
+              "Establish an emergency fund.",
+              "Set goals and dates for reaching them.",
+              "Determine a reasonable fee for designing the plan. ",
+              "Pay off credit card debt. "
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Asset allocation is an important element of the portfolio management process because <br><br>I. different asset classes have different risk and return characteristics  <br>II. research indicates that asset allocation is much more important than security selection <br>III.  portfolios that are focused on different asset classes will have very different returns over time  <br>IV. investors may prefer returns in different forms (e.g., income or capital appreciation) ",
+            "answers": [
+              "I, II and III only",
+              "I, II and IV only",
+              "I, II, III, and IV",
+              "I only"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "The Capital Asset Pricing Model (CAPM) is most commonly used to determine an investor’s: ",
+            "answers": [
+              "expected return.",
+              "holding period return",
+              "required return.",
+              "time weighted return. "
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "An investor purchases 100 shares of a stock at $100 per share on January 1st. On July 1st, the shares are sold for $120 per share. The tax consequences are:",
+            "answers": [
+              "$2,000 long-term gain.",
+              "$2,000 short-term gain.",
+              "$2,000 short-term loss.",
+              "$2,000 long-term loss. "
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following statements about C corporations are TRUE? <br><br>I. A C corporation pays income tax on its earnings at the corporate level. <br>II. The income of C corporations is subject to double taxation. <br>III. Dividends paid by a C corporation are not subject to income tax at the shareholder level. ",
+            "answers": [
+              "II and III.",
+              "I and II.",
+              "I, II and III.",
+              "I and III."
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "There are several popular investment styles and, in many cases, portfolio managers use a blended approach to security selection. If a portfolio manager adhered to a pure value style, he would put most of his focus on: ",
+            "answers": [
+              "lagging indicators.",
+              "using technical analysis.",
+              "projecting future earnings based on past earnings.",
+              "the company’s financial statements."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "An investor diversifying a corporate bond portfolio does NOT consider:",
+            "answers": [
+              "quality.",
+              "issuer.",
+              "maturity.",
+              "domicile of the investor."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "An investor purchases 500 shares of stock on January 10th at $50 per share and sells it on August 4th of the following year for $40 per share. As a result, the investor has realized a: ",
+            "answers": [
+              "short-term capital gain.",
+              "long-term capital loss.",
+              "long-term capital gain.",
+              "short-term capital loss."
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Investors wishing to employ a passive strategy for their bond portfolios would most likely elect which of the following? ",
+            "answers": [
+              "Barbell",
+              "Laddering",
+              "Buy and hold",
+              "Bullet"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Your daughter is getting married and, to celebrate, you give her fiancé a beautiful watch that you purchased for $5,575. What are the tax consequences of this gift? ",
+            "answers": [
+              "The fiancé would have to report this as ordinary income.",
+              "Anything over the FINRA gift limit of $100 per person per year would be considered taxable.",
+              "No tax",
+              "Because they are not yet married, the fiancé is not actually a family member, so a gift tax would be levied."
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "A popular funding technique that involves investing the same amount at regular intervals is known as dollar cost averaging. Participating in this funding approach tends to lessen which risk?",
+            "answers": [
+              "Credit.",
+              "Inflation.",
+              "Timing.",
+              "Market."
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "In the field of portfolio management, there are a number of different management styles. One of those styles involves committing additional capital to the market when others are reducing their exposure, or eliminating positions while others are increasing theirs. This style is generally referred to as:",
+            "answers": [
+              "contrarian.",
+              "active.",
+              "value.",
+              "growth."
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "The concept of creating a model portfolio, through asset allocation principles, that both increases return and reduces risk is known as: ",
+            "answers": [
+              "portfolio optimization.",
+              "corrective adaptation.",
+              "risk reduction fundamentals.",
+              "rebalancing."
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "One respect in which an LLC differs from an S corporation is that",
+            "answers": [
+              "not only income, but losses, if generated, pass through to investors in an LLC",
+              "an LLC can be formed with as little as a single investor",
+              "there is no statutory limit on the number of investors in an LLC",
+              "there is more favorable tax treatment afforded to members of an LLC"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "An investment adviser is doing some research on a company and notices that the current market price is $21 per share. The most recently reported EPS is $3 and the company is paying a 19 cent quarterly dividend. On the balance sheet, the company is carrying a significant amount of cash. This company would probably be attractive to this adviser if his investment style was:",
+            "answers": [
+              "micro-cap.",
+              "growth.",
+              "contrarian.",
+              "value."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "In a trust account, the person who makes the account management decisions is the:",
+            "answers": [
+              "beneficiary.",
+              "investment adviser representative.",
+              "non-trustee custodian.",
+              "trustee."
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "A limited liability company is ",
+            "answers": [
+              "an insurance company",
+              "traded on major exchanges",
+              "a company with tax consequences similar to a partnership ",
+              "a limited partnership "
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " A professional tennis player comes to you seeking advice on setting up a trust. She is interested in giving to charity and also wants discretion as to when income is distributed to the beneficiaries, her parents. Which trust do you advise she use? ",
+            "answers": [
+              "Charitable lead trust",
+              " Simple trust",
+              "Charitable remainder trust",
+              " Complex trust"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " Assets that might be found on a family balance sheet include: <br><br>I. car loan. <br>II. gold watch. <br>III. Keogh plan. <br>IV. salary",
+            "answers": [
+              "I and IV",
+              "I and II",
+              "II and III",
+              "III and IV "
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "If a new client has $200,000 to invest and wants to retire in 15 years, which of the following client information is least necessary for an adviser to recommend a suitable investment program?",
+            "answers": [
+              "The age of the client",
+              "The amount of income he requires for his retirement years.",
+              "Current income and cash flow requirements",
+              "Tolerance toward risk"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "IAn investor can choose between four portfolios with the following expected returns and standard deviations. Expected Return Standard Deviation <br><br>I. 8% 20% <br>II. 6% 21% <br>III. 8% 21% <br>IV. 7% 22% ",
+            "answers": [
+              "II",
+              "III",
+              "I",
+              "IV"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "As compared to value investors, growth investors tend to:",
+            "answers": [
+              "take more of a long-term approach to their investments.",
+              "look for companies whose sales, earnings, or market share are increasing at an above- average rate.",
+              "look for companies that are undervalued or overlooked by other investors.",
+              "be very price-conscious when purchasing stocks."
+            ],
+            "correctAnswerIndex": 1,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " An investment strategy where a higher price is paid for a stock based on expected returns is:",
+            "answers": [
+              "dollar cost averaging",
+              "return on investment",
+              "futures investing",
+              "growth investing. "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " Which of the following is a characteristic of the passive investment style? ",
+            "answers": [
+              "High portfolio turnover",
+              "Income rather than growth objective",
+              "Rebalancing",
+              "Tactical management. "
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " The management style that is most similar to buy and hold is ",
+            "answers": [
+              "strategic management.",
+              "contrarian",
+              "tactical management. ",
+              "active management "
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": " Which of the following market analysts is using the efficient market theory?  ",
+            "answers": [
+              "Before he invests in a company, an analyst visits its headquarters to  see whether management is running the company effectively",
+              "An analyst sells stock when he sees small investors buying",
+              "An analyst has developed a system for identifying reversals in downward trend-lines ",
+              "An analyst picks company names out of a hat "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Buying stocks with high PE ratios normally reflects which of the following investment styles? ",
+            "answers": [
+              "Growth",
+              "Value",
+              "Special situations",
+              "Turnaround "
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Which of the following is federally tax exempt for a corporation?  ",
+            "answers": [
+              "Foreign corporate stock dividends",
+              "Capital gains",
+              "Preferred stock dividends",
+              "Municipal bond interest "
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "If a husband makes a gift of $100,000 to his wife, a U.S. citizen, how much of the gift is subject to gift taxes?  ",
+            "answers": [
+              "$100,000.00 ",
+              "$90,000.00 ",
+              "$0.00",
+              "$50,000.00 "
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "It would be correct to state that when an investor has a shorter time horizon:",
+            "answers": [
+                "the risk level is raised",
+                "the exposure to inflation risk is increased",
+                "the greater the duration",
+                "the need for liquidity is more important"
+            ],
+            "correctAnswerIndex": 3,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "Value investors:",
+            "answers": [
+                "seek securities that are undervalued or selling for less than their intrinsic value",
+                "seek undervalued stocks through careful chart analysis",
+                "seek to find securities with high Sharpe ratios",
+                "attempt to find value through diversification"
+            ],
+            "correctAnswerIndex": 0,
+            "explanation": "NA",
+            "reference": ""
+          },
+          {
+            "question": "An individual is a participant in the 403(b) plan offered by his employer. If he were to invest $200 per month into one of the growth sub-accounts offered under the plan, he would be:",
+            "answers": [
+                "following a constant ratio plan",
+                "rebalancing",
+                "dollar cost averaging",
+                "maintaining a constant dollar plan"
+            ],
+            "correctAnswerIndex": 2,
+            "explanation": "NA",
+            "reference": ""
+          },
+
         ]
     },
     {
